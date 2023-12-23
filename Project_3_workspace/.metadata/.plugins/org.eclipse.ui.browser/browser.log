@@ -1,0 +1,981 @@
+
+Nov 06, 2023 21:39:09.45 NEW SESSION
+Nov 06, 2023 21:39:09.45 [5252:5248:1106/213909.453:ERROR:backend_impl.cc(984)] Critical error found -8
+Nov 06, 2023 21:39:09.45 [5252:5248:1106/213909.454:ERROR:entry_impl.cc(949)] Failed to save user data
+Nov 06, 2023 21:48:21.64 [5252:2688:1106/214821.640:ERROR:device_event_log_impl.cc(192)] [21:48:21.639] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 06, 2023 21:50:44.44 [5252:2688:1106/215044.444:ERROR:device_event_log_impl.cc(192)] [21:50:44.444] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 06, 2023 21:51:24.49 [5252:7936:1106/215124.490:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2023 21:53:49.35 [5252:2688:1106/215349.358:ERROR:device_event_log_impl.cc(192)] [21:53:49.358] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 06, 2023 21:53:51.38 [5252:2688:1106/215351.384:ERROR:device_event_log_impl.cc(192)] [21:53:51.384] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 06, 2023 21:53:52.94 [5252:2688:1106/215352.941:ERROR:device_event_log_impl.cc(192)] [21:53:52.940] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 06, 2023 21:53:54.48 [5252:2688:1106/215354.480:ERROR:device_event_log_impl.cc(192)] [21:53:54.480] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 06, 2023 21:53:56.49 [5252:2688:1106/215356.489:ERROR:device_event_log_impl.cc(192)] [21:53:56.489] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 06, 2023 21:54:01.01 [5252:2688:1106/215401.011:ERROR:device_event_log_impl.cc(192)] [21:54:01.011] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 06, 2023 21:54:10.36 [5252:2688:1106/215410.368:ERROR:device_event_log_impl.cc(192)] [21:54:10.367] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 06, 2023 21:54:14.40 [5252:2688:1106/215414.404:ERROR:device_event_log_impl.cc(192)] [21:54:14.403] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 06, 2023 21:54:18.72 [5252:2688:1106/215418.727:ERROR:device_event_log_impl.cc(192)] [21:54:18.727] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 06, 2023 22:22:15.98 [5252:2688:1106/222215.987:ERROR:device_event_log_impl.cc(192)] [22:22:15.986] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 06, 2023 22:22:26.23 [5252:2688:1106/222226.235:ERROR:device_event_log_impl.cc(192)] [22:22:26.234] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 06, 2023 22:22:28.24 [5252:2688:1106/222228.249:ERROR:device_event_log_impl.cc(192)] [22:22:28.248] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 06, 2023 22:22:37.31 [5252:2688:1106/222237.312:ERROR:device_event_log_impl.cc(192)] [22:22:37.310] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 06, 2023 22:22:38.97 [5252:2688:1106/222238.974:ERROR:device_event_log_impl.cc(192)] [22:22:38.974] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 06, 2023 22:22:42.77 [5252:2688:1106/222242.772:ERROR:device_event_log_impl.cc(192)] [22:22:42.771] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 06, 2023 22:22:45.37 [5252:2688:1106/222245.379:ERROR:device_event_log_impl.cc(192)] [22:22:45.379] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 06, 2023 22:22:47.39 [5252:2688:1106/222247.394:ERROR:device_event_log_impl.cc(192)] [22:22:47.393] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 06, 2023 22:22:51.73 [5252:2688:1106/222251.730:ERROR:device_event_log_impl.cc(192)] [22:22:51.728] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 06, 2023 22:22:57.36 [5252:2688:1106/222257.364:ERROR:device_event_log_impl.cc(192)] [22:22:57.363] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 06, 2023 22:23:20.98 [5252:2688:1106/222320.984:ERROR:device_event_log_impl.cc(192)] [22:23:20.983] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 06, 2023 22:28:04.39 [5252:2688:1106/222804.391:ERROR:device_event_log_impl.cc(192)] [22:28:04.390] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 06, 2023 23:20:31.29 [5252:7936:1106/232031.291:ERROR:mcs_client.cc(750)] Received close command, resetting connection.
+Nov 06, 2023 23:45:10.20 [5252:2688:1106/234510.206:ERROR:device_event_log_impl.cc(192)] [23:45:10.206] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 06, 2023 23:48:06.75 [5252:7936:1106/234806.749:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2023 23:48:32.61 [5252:7936:1106/234832.612:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2023 23:49:30.91 [5252:7936:1106/234930.916:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2023 23:52:20.67 [6100:11916:1106/235220.675:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Nov 27, 2023 14:20:56.37 NEW SESSION
+Nov 27, 2023 14:20:56.37 [3888:5212:1127/142056.369:ERROR:gpu_process_host.cc(990)] GPU process exited unexpectedly: exit_code=-1073740791
+Nov 27, 2023 14:23:06.35 [3888:7172:1127/142306.357:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 27, 2023 17:17:34.67 [3888:5212:1127/171734.669:ERROR:device_event_log_impl.cc(192)] [17:17:34.669] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 17:17:34.87 [3888:7172:1127/171734.870:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Nov 27, 2023 17:17:37.12 [3888:7172:1127/171737.120:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 27, 2023 17:17:37.18 [3888:7172:1127/171737.188:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Nov 27, 2023 17:17:38.13 [3888:5212:1127/171738.135:ERROR:device_event_log_impl.cc(192)] [17:17:38.135] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 17:18:02.73 [3888:5212:1127/171802.737:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Nov 27, 2023 17:18:02.73 [3888:5212:1127/171802.737:ERROR:device_event_log_impl.cc(192)] [17:18:02.737] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 17:18:04.83 [3888:5212:1127/171804.829:ERROR:device_event_log_impl.cc(192)] [17:18:04.829] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 17:18:06.36 [3888:5212:1127/171806.363:ERROR:device_event_log_impl.cc(192)] [17:18:06.362] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 17:33:13.78 [3888:7172:1127/173313.785:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 27, 2023 17:40:42.65 [3888:5212:1127/174042.657:ERROR:device_event_log_impl.cc(192)] [17:40:42.657] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 17:40:42.69 [3888:7172:1127/174042.694:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Nov 27, 2023 17:40:42.69 [3888:7172:1127/174042.694:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -7
+Nov 27, 2023 17:40:44.82 [3888:5212:1127/174044.820:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Nov 27, 2023 17:40:44.82 [3888:5212:1127/174044.820:ERROR:device_event_log_impl.cc(192)] [17:40:44.820] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 18:01:31.90 [3888:5212:1127/180131.906:ERROR:device_event_log_impl.cc(192)] [18:01:31.906] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:02:39.97 [3888:5212:1127/180239.979:ERROR:device_event_log_impl.cc(192)] [18:02:39.979] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:08:04.22 [3888:7172:1127/180804.219:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 27, 2023 18:23:24.97 [3888:5212:1127/182324.979:ERROR:device_event_log_impl.cc(192)] [18:23:24.613] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:23:25.61 [3888:5212:1127/182325.618:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Nov 27, 2023 18:23:25.61 [3888:5212:1127/182325.618:ERROR:device_event_log_impl.cc(192)] [18:23:25.618] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 18:24:34.56 [3888:5212:1127/182434.566:ERROR:device_event_log_impl.cc(192)] [18:24:34.566] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:36:29.70 [3888:5212:1127/183629.703:ERROR:device_event_log_impl.cc(192)] [18:36:29.702] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:38:56.68 [3888:5212:1127/183856.683:ERROR:device_event_log_impl.cc(192)] [18:38:56.683] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:38:58.84 [3888:5212:1127/183858.848:ERROR:device_event_log_impl.cc(192)] [18:38:58.848] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:38:59.52 [3888:5212:1127/183859.527:ERROR:device_event_log_impl.cc(192)] [18:38:59.527] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Nov 27, 2023 18:39:01.91 [3888:5212:1127/183901.916:ERROR:device_event_log_impl.cc(192)] [18:39:01.916] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Nov 27, 2023 18:39:05.35 [3888:5212:1127/183905.351:ERROR:device_event_log_impl.cc(192)] [18:39:05.351] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:11.57 [3888:5212:1127/183911.573:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Nov 27, 2023 18:39:11.57 [3888:5212:1127/183911.573:ERROR:device_event_log_impl.cc(192)] [18:39:11.574] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 18:39:16.81 [3888:5212:1127/183916.814:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Nov 27, 2023 18:39:16.81 [3888:5212:1127/183916.814:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 18:39:16.81 [3888:5212:1127/183916.814:ERROR:device_event_log_impl.cc(192)] [18:39:16.815] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 18:39:19.64 [3888:5212:1127/183919.644:ERROR:device_event_log_impl.cc(192)] [18:39:19.643] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:23.25 [3888:5212:1127/183923.250:ERROR:device_event_log_impl.cc(192)] [18:39:23.250] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:25.25 [3888:5212:1127/183925.256:ERROR:device_event_log_impl.cc(192)] [18:39:25.256] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:33.23 [3888:5212:1127/183933.233:ERROR:device_event_log_impl.cc(192)] [18:39:33.233] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:35.65 [3888:5212:1127/183935.650:ERROR:device_event_log_impl.cc(192)] [18:39:35.650] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:37.63 [3888:5212:1127/183937.633:ERROR:device_event_log_impl.cc(192)] [18:39:37.633] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:38.81 [3888:5212:1127/183938.812:ERROR:device_event_log_impl.cc(192)] [18:39:38.812] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:41.62 [3888:5212:1127/183941.627:ERROR:device_event_log_impl.cc(192)] [18:39:41.626] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:43.46 [3888:5212:1127/183943.466:ERROR:device_event_log_impl.cc(192)] [18:39:43.466] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:45.47 [3888:5212:1127/183945.470:ERROR:device_event_log_impl.cc(192)] [18:39:45.470] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:49.03 [3888:5212:1127/183949.029:ERROR:device_event_log_impl.cc(192)] [18:39:49.028] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:51.04 [3888:5212:1127/183951.046:ERROR:device_event_log_impl.cc(192)] [18:39:51.045] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:51.82 [3888:5212:1127/183951.825:ERROR:device_event_log_impl.cc(192)] [18:39:51.823] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:55.92 [3888:5212:1127/183955.923:ERROR:device_event_log_impl.cc(192)] [18:39:55.923] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:39:57.19 [3888:5212:1127/183957.198:ERROR:device_event_log_impl.cc(192)] [18:39:57.198] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:40:01.76 [3888:5212:1127/184001.763:ERROR:device_event_log_impl.cc(192)] [18:40:01.763] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:40:03.31 [3888:5212:1127/184003.311:ERROR:device_event_log_impl.cc(192)] [18:40:03.310] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:40:06.38 [3888:5212:1127/184006.384:ERROR:device_event_log_impl.cc(192)] [18:40:06.383] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:40:07.92 [3888:5212:1127/184007.925:ERROR:device_event_log_impl.cc(192)] [18:40:07.925] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:40:20.49 [3888:5212:1127/184020.492:ERROR:device_event_log_impl.cc(192)] [18:40:20.492] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:40:22.51 [3888:5212:1127/184022.516:ERROR:device_event_log_impl.cc(192)] [18:40:22.516] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:40:28.57 [3888:5212:1127/184028.569:ERROR:device_event_log_impl.cc(192)] [18:40:28.569] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:40:31.99 [3888:5212:1127/184031.991:ERROR:device_event_log_impl.cc(192)] [18:40:31.990] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:45:20.73 [3888:5212:1127/184520.733:ERROR:device_event_log_impl.cc(192)] [18:45:20.732] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:49:23.76 [3888:5212:1127/184923.761:ERROR:device_event_log_impl.cc(192)] [18:49:23.761] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:55:12.32 [3888:5212:1127/185512.319:ERROR:device_event_log_impl.cc(192)] [18:55:12.317] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:57:32.20 [3888:5212:1127/185732.204:ERROR:device_event_log_impl.cc(192)] [18:57:32.202] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 18:57:36.24 [3888:5212:1127/185736.247:ERROR:usb_descriptors.cc(141)] Failed to read length for configuration 0.
+Nov 27, 2023 18:57:36.24 [3888:5212:1127/185736.247:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 18:57:36.24 [3888:5212:1127/185736.247:ERROR:device_event_log_impl.cc(192)] [18:57:36.246] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 18:57:37.80 [3888:5212:1127/185737.803:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Nov 27, 2023 18:57:37.80 [3888:5212:1127/185737.803:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 18:57:37.80 [3888:5212:1127/185737.804:ERROR:device_event_log_impl.cc(192)] [18:57:37.804] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 18:57:38.33 [3888:5212:1127/185738.334:ERROR:usb_descriptors.cc(141)] Failed to read length for configuration 0.
+Nov 27, 2023 18:57:38.33 [3888:5212:1127/185738.335:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 18:57:38.33 [3888:5212:1127/185738.335:ERROR:device_event_log_impl.cc(192)] [18:57:38.334] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 18:57:42.33 [3888:5212:1127/185742.336:ERROR:usb_descriptors.cc(141)] Failed to read length for configuration 0.
+Nov 27, 2023 18:57:42.33 [3888:5212:1127/185742.336:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 18:57:42.33 [3888:5212:1127/185742.336:ERROR:device_event_log_impl.cc(192)] [18:57:42.336] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 18:57:46.83 [3888:5212:1127/185746.832:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Nov 27, 2023 18:57:46.83 [3888:5212:1127/185746.832:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 18:57:46.83 [3888:5212:1127/185746.832:ERROR:device_event_log_impl.cc(192)] [18:57:46.832] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 18:57:53.62 [3888:5212:1127/185753.621:ERROR:usb_descriptors.cc(141)] Failed to read length for configuration 0.
+Nov 27, 2023 18:57:53.62 [3888:5212:1127/185753.621:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 18:57:53.62 [3888:5212:1127/185753.621:ERROR:device_event_log_impl.cc(192)] [18:57:53.621] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 18:58:41.58 [3888:5212:1127/185841.582:ERROR:device_event_log_impl.cc(192)] [18:58:41.583] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 18:58:48.12 [3888:5212:1127/185848.120:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:48.35 [3888:5212:1127/185848.353:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:48.46 [3888:5212:1127/185848.467:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:48.57 [3888:5212:1127/185848.577:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:48.70 [3888:5212:1127/185848.708:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:48.91 [3888:5212:1127/185848.919:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:49.04 [3888:5212:1127/185849.040:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:49.36 [3888:5212:1127/185849.364:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:49.58 [3888:5212:1127/185849.586:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:49.75 [3888:5212:1127/185849.752:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:49.87 [3888:5212:1127/185849.877:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:49.98 [3888:5212:1127/185849.988:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:50.11 [3888:5212:1127/185850.111:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:50.28 [3888:5212:1127/185850.284:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:50.39 [3888:5212:1127/185850.393:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:50.50 [3888:5212:1127/185850.503:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:50.61 [3888:5212:1127/185850.615:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:50.73 [3888:5212:1127/185850.735:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:50.84 [3888:5212:1127/185850.848:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:50.95 [3888:5212:1127/185850.957:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:51.20 [3888:5212:1127/185851.208:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:51.50 [3888:5212:1127/185851.500:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:51.63 [3888:5212:1127/185851.634:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:51.75 [3888:5212:1127/185851.750:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:51.88 [3888:5212:1127/185851.882:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:52.15 [3888:5212:1127/185852.149:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:52.26 [3888:5212:1127/185852.268:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:52.38 [3888:5212:1127/185852.385:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:52.50 [3888:5212:1127/185852.501:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:52.90 [3888:5212:1127/185852.901:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:53.01 [3888:5212:1127/185853.017:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:53.14 [3888:5212:1127/185853.148:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:53.26 [3888:5212:1127/185853.264:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:53.39 [3888:5212:1127/185853.399:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:53.51 [3888:5212:1127/185853.515:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:53.63 [3888:5212:1127/185853.631:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:53.74 [3888:5212:1127/185853.748:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:53.87 [3888:5212:1127/185853.871:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:54.85 [3888:5212:1127/185854.853:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:54.96 [3888:5212:1127/185854.966:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:55.08 [3888:5212:1127/185855.081:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:55.19 [3888:5212:1127/185855.196:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:55.53 [3888:5212:1127/185855.535:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:55.64 [3888:5212:1127/185855.648:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:55.76 [3888:5212:1127/185855.766:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:55.89 [3888:5212:1127/185855.892:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:56.06 [3888:5212:1127/185856.063:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:57.56 [3888:5212:1127/185857.564:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:57.68 [3888:5212:1127/185857.688:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:59.17 [3888:5212:1127/185859.175:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:59.54 [3888:5212:1127/185859.544:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:58:59.85 [3888:5212:1127/185859.854:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:00.74 [3888:5212:1127/185900.745:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:01.46 [3888:5212:1127/185901.462:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:02.18 [3888:5212:1127/185902.187:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:03.85 [3888:5212:1127/185903.849:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:03.96 [3888:5212:1127/185903.966:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:04.09 [3888:5212:1127/185904.093:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:04.95 [3888:5212:1127/185904.956:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:05.06 [3888:5212:1127/185905.064:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:05.18 [3888:5212:1127/185905.180:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:05.29 [3888:5212:1127/185905.298:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:05.69 [3888:5212:1127/185905.698:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:05.81 [3888:5212:1127/185905.815:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:05.94 [3888:5212:1127/185905.943:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:06.71 [3888:5212:1127/185906.719:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:07.01 [3888:5212:1127/185907.019:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:07.42 [3888:5212:1127/185907.425:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:08.22 [3888:5212:1127/185908.227:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:12.10 [3888:5212:1127/185912.102:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 18:59:12.45 [3888:5212:1127/185912.452:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 1.598 s for first_image_paint 1.576 s
+Nov 27, 2023 19:00:20.40 [3888:5212:1127/190020.402:ERROR:usb_descriptors.cc(141)] Failed to read length for configuration 0.
+Nov 27, 2023 19:00:20.40 [3888:5212:1127/190020.402:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 19:00:20.40 [3888:5212:1127/190020.402:ERROR:device_event_log_impl.cc(192)] [19:00:20.402] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 19:04:30.27 [3888:5212:1127/190430.272:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Nov 27, 2023 19:04:30.27 [3888:5212:1127/190430.272:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 19:04:30.27 [3888:5212:1127/190430.273:ERROR:device_event_log_impl.cc(192)] [19:04:30.272] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 19:04:31.28 [3888:5212:1127/190431.287:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Nov 27, 2023 19:04:31.28 [3888:5212:1127/190431.287:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 19:04:31.28 [3888:5212:1127/190431.287:ERROR:device_event_log_impl.cc(192)] [19:04:31.286] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 19:16:34.92 [3888:5212:1127/191634.926:ERROR:device_event_log_impl.cc(192)] [19:16:34.926] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 19:24:49.01 [3888:5212:1127/192449.015:ERROR:device_event_log_impl.cc(192)] [19:24:49.016] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 19:25:38.71 [3888:5212:1127/192538.713:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Nov 27, 2023 19:25:38.71 [3888:5212:1127/192538.713:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 19:25:38.71 [3888:5212:1127/192538.713:ERROR:device_event_log_impl.cc(192)] [19:25:38.713] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 19:25:40.80 [3888:5212:1127/192540.806:ERROR:device_event_log_impl.cc(192)] [19:25:40.806] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 19:25:42.41 [3888:5212:1127/192542.412:ERROR:device_event_log_impl.cc(192)] [19:25:42.412] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 19:25:57.25 [3888:5212:1127/192557.256:ERROR:device_event_log_impl.cc(192)] [19:25:57.255] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 19:26:00.72 [3888:5212:1127/192600.728:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Nov 27, 2023 19:26:00.72 [3888:5212:1127/192600.728:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 19:26:00.72 [3888:5212:1127/192600.728:ERROR:device_event_log_impl.cc(192)] [19:26:00.727] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 19:26:01.58 [3888:5212:1127/192601.589:ERROR:device_event_log_impl.cc(192)] [19:26:01.589] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 19:26:07.39 [3888:5212:1127/192607.389:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Nov 27, 2023 19:26:07.39 [3888:5212:1127/192607.389:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 19:26:07.39 [3888:5212:1127/192607.389:ERROR:device_event_log_impl.cc(192)] [19:26:07.390] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 19:26:08.28 [3888:5212:1127/192608.288:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Nov 27, 2023 19:26:08.28 [3888:5212:1127/192608.288:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 19:26:08.29 [3888:5212:1127/192608.289:ERROR:device_event_log_impl.cc(192)] [19:26:08.289] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 19:26:10.04 [3888:5212:1127/192610.046:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Nov 27, 2023 19:26:10.04 [3888:5212:1127/192610.046:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 19:26:10.04 [3888:5212:1127/192610.046:ERROR:device_event_log_impl.cc(192)] [19:26:10.047] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 19:26:14.86 [3888:5212:1127/192614.864:ERROR:device_event_log_impl.cc(192)] [19:26:14.863] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 19:26:17.41 [3888:5212:1127/192617.418:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Nov 27, 2023 19:26:17.41 [3888:5212:1127/192617.418:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 19:26:17.41 [3888:5212:1127/192617.418:ERROR:device_event_log_impl.cc(192)] [19:26:17.418] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 19:26:18.63 [3888:5212:1127/192618.633:ERROR:usb_descriptors.cc(141)] Failed to read length for configuration 0.
+Nov 27, 2023 19:26:18.63 [3888:5212:1127/192618.633:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Nov 27, 2023 19:26:18.63 [3888:5212:1127/192618.633:ERROR:device_event_log_impl.cc(192)] [19:26:18.633] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 19:26:24.79 [3888:5212:1127/192624.790:ERROR:device_event_log_impl.cc(192)] [19:26:24.791] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 19:50:00.65 [3888:5212:1127/195000.658:ERROR:device_event_log_impl.cc(192)] [19:50:00.657] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 19:50:05.35 [3888:5212:1127/195005.358:ERROR:device_event_log_impl.cc(192)] [19:50:05.358] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 19:51:43.24 [3888:5212:1127/195143.240:ERROR:device_event_log_impl.cc(192)] [19:51:43.240] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 19:51:59.51 [3888:5212:1127/195159.510:ERROR:device_event_log_impl.cc(192)] [19:51:59.510] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:07:01.55 [3888:5212:1127/200701.559:ERROR:device_event_log_impl.cc(192)] [20:07:01.558] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:08:06.68 [3888:5212:1127/200806.688:ERROR:device_event_log_impl.cc(192)] [20:08:06.687] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:08:10.71 [3888:5212:1127/200810.710:ERROR:device_event_log_impl.cc(192)] [20:08:10.711] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:08:14.73 [3888:5212:1127/200814.732:ERROR:device_event_log_impl.cc(192)] [20:08:14.732] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:08:22.80 [3888:5212:1127/200822.801:ERROR:device_event_log_impl.cc(192)] [20:08:22.801] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:08:24.82 [3888:5212:1127/200824.826:ERROR:device_event_log_impl.cc(192)] [20:08:24.826] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:08:34.87 [3888:5212:1127/200834.875:ERROR:device_event_log_impl.cc(192)] [20:08:34.875] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:08:38.91 [3888:5212:1127/200838.918:ERROR:device_event_log_impl.cc(192)] [20:08:38.919] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:08:44.93 [3888:5212:1127/200844.938:ERROR:device_event_log_impl.cc(192)] [20:08:44.938] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:08:48.97 [3888:5212:1127/200848.973:ERROR:device_event_log_impl.cc(192)] [20:08:48.971] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:08:50.97 [3888:5212:1127/200850.971:ERROR:device_event_log_impl.cc(192)] [20:08:50.970] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:08:55.00 [3888:5212:1127/200855.003:ERROR:device_event_log_impl.cc(192)] [20:08:55.003] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:08:57.00 [3888:5212:1127/200857.001:ERROR:device_event_log_impl.cc(192)] [20:08:57.000] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:08:59.02 [3888:5212:1127/200859.023:ERROR:device_event_log_impl.cc(192)] [20:08:59.022] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:09:01.03 [3888:5212:1127/200901.034:ERROR:device_event_log_impl.cc(192)] [20:09:01.032] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:09:07.07 [3888:5212:1127/200907.070:ERROR:device_event_log_impl.cc(192)] [20:09:07.069] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:09:13.08 [3888:5212:1127/200913.087:ERROR:device_event_log_impl.cc(192)] [20:09:13.086] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:09:17.15 [3888:5212:1127/200917.150:ERROR:device_event_log_impl.cc(192)] [20:09:17.149] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:09:19.17 [3888:5212:1127/200919.175:ERROR:device_event_log_impl.cc(192)] [20:09:19.174] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:09:25.22 [3888:5212:1127/200925.221:ERROR:device_event_log_impl.cc(192)] [20:09:25.220] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:09:27.23 [3888:5212:1127/200927.239:ERROR:device_event_log_impl.cc(192)] [20:09:27.239] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:09:31.27 [3888:5212:1127/200931.273:ERROR:device_event_log_impl.cc(192)] [20:09:31.272] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:09:33.27 [3888:5212:1127/200933.278:ERROR:device_event_log_impl.cc(192)] [20:09:33.277] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:09:35.29 [3888:5212:1127/200935.292:ERROR:device_event_log_impl.cc(192)] [20:09:35.291] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:09:47.38 [3888:5212:1127/200947.389:ERROR:device_event_log_impl.cc(192)] [20:09:47.388] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:09:49.42 [3888:5212:1127/200949.426:ERROR:device_event_log_impl.cc(192)] [20:09:49.425] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:09:53.43 [3888:5212:1127/200953.436:ERROR:device_event_log_impl.cc(192)] [20:09:53.435] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:10:03.53 [3888:5212:1127/201003.530:ERROR:device_event_log_impl.cc(192)] [20:10:03.528] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:10:07.55 [3888:5212:1127/201007.558:ERROR:device_event_log_impl.cc(192)] [20:10:07.557] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:10:09.58 [3888:5212:1127/201009.586:ERROR:device_event_log_impl.cc(192)] [20:10:09.585] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:10:24.74 [3888:5212:1127/201024.741:ERROR:device_event_log_impl.cc(192)] [20:10:24.740] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:13:35.63 [3888:5212:1127/201335.635:ERROR:device_event_log_impl.cc(192)] [20:13:35.633] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:13:46.46 [3888:5212:1127/201346.463:ERROR:device_event_log_impl.cc(192)] [20:13:46.462] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:21:23.72 [3888:5212:1127/202123.725:ERROR:device_event_log_impl.cc(192)] [20:21:23.724] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:21:37.07 [3888:5212:1127/202137.072:ERROR:device_event_log_impl.cc(192)] [20:21:37.071] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:21:43.21 [3888:5212:1127/202143.214:ERROR:device_event_log_impl.cc(192)] [20:21:43.211] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:21:49.35 [3888:5212:1127/202149.358:ERROR:device_event_log_impl.cc(192)] [20:21:49.359] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:21:55.27 [3888:5212:1127/202155.274:ERROR:device_event_log_impl.cc(192)] [20:21:55.271] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:22:09.19 [3888:5212:1127/202209.198:ERROR:device_event_log_impl.cc(192)] [20:22:09.199] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:22:13.17 [3888:5212:1127/202213.179:ERROR:device_event_log_impl.cc(192)] [20:22:13.176] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:22:47.70 [3888:5212:1127/202247.705:ERROR:device_event_log_impl.cc(192)] [20:22:47.704] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:22:58.08 [3888:5212:1127/202258.089:ERROR:device_event_log_impl.cc(192)] [20:22:58.088] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:23:00.07 [3888:5212:1127/202300.078:ERROR:device_event_log_impl.cc(192)] [20:23:00.080] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:23:02.09 [3888:5212:1127/202302.096:ERROR:device_event_log_impl.cc(192)] [20:23:02.094] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:23:04.75 [3888:5212:1127/202304.758:ERROR:device_event_log_impl.cc(192)] [20:23:04.756] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:23:11.90 [3888:5212:1127/202311.900:ERROR:device_event_log_impl.cc(192)] [20:23:11.901] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 27, 2023 20:24:02.09 [3888:5212:1127/202402.090:ERROR:device_event_log_impl.cc(192)] [20:24:02.094] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:24:04.51 [3888:7172:1127/202404.513:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 27, 2023 20:50:48.18 [3888:7172:1127/205048.189:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Nov 27, 2023 20:50:48.18 [3888:7172:1127/205048.189:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -7
+Nov 27, 2023 20:50:48.25 [3888:5212:1127/205048.259:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Nov 27, 2023 20:50:48.25 [3888:5212:1127/205048.259:ERROR:device_event_log_impl.cc(192)] [20:50:48.257] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 20:50:55.65 [3888:5212:1127/205055.657:ERROR:device_event_log_impl.cc(192)] [20:50:55.657] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:50:56.19 [3888:7172:1127/205056.193:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 27, 2023 20:50:57.16 [3888:5212:1127/205057.160:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Nov 27, 2023 20:50:57.16 [3888:5212:1127/205057.160:ERROR:device_event_log_impl.cc(192)] [20:50:57.158] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 20:51:10.10 [3888:5212:1127/205110.100:ERROR:device_event_log_impl.cc(192)] [20:51:10.109] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 20:51:13.00 [3888:5212:1127/205113.009:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Nov 27, 2023 20:51:13.00 [3888:5212:1127/205113.009:ERROR:device_event_log_impl.cc(192)] [20:51:12.998] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 27, 2023 20:54:57.73 [3888:5212:1127/205457.739:ERROR:device_event_log_impl.cc(192)] [20:54:57.742] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 21:15:34.46 [3888:5212:1127/211534.463:ERROR:device_event_log_impl.cc(192)] [21:15:34.463] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 21:17:38.17 [3888:5212:1127/211738.176:ERROR:device_event_log_impl.cc(192)] [21:17:38.175] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 21:24:55.44 [3888:5212:1127/212455.441:ERROR:device_event_log_impl.cc(192)] [21:24:55.443] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 27, 2023 21:27:40.50 [3888:7172:1127/212740.500:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 28, 2023 24:27:41.64 [3888:7172:1128/002741.649:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 28, 2023 24:27:41.82 [3888:5212:1128/002741.825:ERROR:device_event_log_impl.cc(192)] [00:27:41.835] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 28, 2023 24:27:42.18 [3888:7172:1128/002742.187:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 28, 2023 24:27:43.31 [3888:5212:1128/002743.310:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Nov 28, 2023 24:27:43.31 [3888:5212:1128/002743.310:ERROR:device_event_log_impl.cc(192)] [00:27:43.311] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 28, 2023 12:12:31.69 [3888:5212:1128/121231.695:ERROR:device_event_log_impl.cc(192)] [12:12:31.700] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 28, 2023 12:12:32.84 [3888:9704:1128/121232.845:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_IO_SUSPENDED)
+Nov 28, 2023 12:12:33.88 [3888:5212:1128/121233.889:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Nov 28, 2023 12:12:33.88 [3888:5212:1128/121233.889:ERROR:device_event_log_impl.cc(192)] [12:12:33.884] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 28, 2023 12:12:34.87 [3888:7172:1128/121234.871:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 28, 2023 12:12:53.63 [3888:7172:1128/121253.630:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 28, 2023 12:12:53.63 [3888:424:1128/121253.630:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Nov 28, 2023 12:13:14.10 [3888:7172:1128/121314.106:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 28, 2023 12:13:14.13 [3888:4636:1128/121314.138:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Nov 28, 2023 12:13:16.14 [3888:7172:1128/121316.148:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 28, 2023 12:13:16.14 [3888:4636:1128/121316.148:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Nov 28, 2023 12:13:47.86 [3888:4496:1128/121347.862:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Nov 28, 2023 12:18:04.88 [3888:7172:1128/121804.884:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 28, 2023 12:19:03.80 [3888:7172:1128/121903.808:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Nov 28, 2023 12:35:02.98 [3888:5212:1128/123502.983:ERROR:device_event_log_impl.cc(192)] [12:35:02.977] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 28, 2023 12:35:11.79 [3888:5212:1128/123511.799:ERROR:device_event_log_impl.cc(192)] [12:35:11.797] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 28, 2023 12:36:46.27 [3888:7172:1128/123646.275:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 28, 2023 13:09:44.05 [3888:7172:1128/130944.051:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 28, 2023 13:09:45.62 [3888:5212:1128/130945.622:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Nov 28, 2023 13:09:45.62 [3888:5212:1128/130945.622:ERROR:device_event_log_impl.cc(192)] [13:09:45.622] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 28, 2023 13:11:10.17 [3888:7172:1128/131110.173:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 28, 2023 13:11:35.28 [3888:7172:1128/131135.280:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 28, 2023 13:12:17.14 [3888:7172:1128/131217.144:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 28, 2023 13:14:05.05 [3888:7172:1128/131405.053:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 28, 2023 13:15:40.97 [3888:5212:1128/131540.979:ERROR:device_event_log_impl.cc(192)] [13:15:40.992] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Nov 28, 2023 13:16:06.67 [3888:5212:1128/131606.674:ERROR:device_event_log_impl.cc(192)] [13:16:06.678] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 28, 2023 13:32:11.25 [3888:7172:1128/133211.254:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 28, 2023 13:32:14.30 [3888:7172:1128/133214.305:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 28, 2023 13:32:58.48 [3888:7172:1128/133258.482:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 28, 2023 13:36:22.70 [3888:7172:1128/133622.707:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 28, 2023 13:41:06.53 [3888:7172:1128/134106.532:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Nov 28, 2023 13:41:07.24 [3888:5212:1128/134107.242:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Nov 28, 2023 13:41:07.24 [3888:5212:1128/134107.242:ERROR:device_event_log_impl.cc(192)] [13:41:07.242] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Nov 28, 2023 13:41:09.50 [3888:7172:1128/134109.503:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 28, 2023 13:41:18.41 [3888:5212:1128/134118.417:ERROR:device_event_log_impl.cc(192)] [13:41:18.415] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Dec 18, 2023 13:08:27.26 NEW SESSION
+Dec 18, 2023 13:08:27.26 [13436:11840:1218/130827.264:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 18, 2023 13:08:27.26 [13436:11840:1218/130827.264:ERROR:device_event_log_impl.cc(192)] [13:08:27.263] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 18, 2023 13:08:42.27 [13436:14072:1218/130842.270:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 13:10:12.12 [13436:11840:1218/131012.121:ERROR:device_event_log_impl.cc(192)] [13:10:12.120] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 13:15:44.00 [13436:14072:1218/131544.002:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 13:19:35.14 [13436:14072:1218/131935.140:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 13:19:36.61 [13436:11840:1218/131936.612:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 18, 2023 13:19:36.61 [13436:11840:1218/131936.612:ERROR:device_event_log_impl.cc(192)] [13:19:36.611] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 18, 2023 13:19:38.11 [13436:11840:1218/131938.117:ERROR:device_event_log_impl.cc(192)] [13:19:38.117] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 13:19:38.55 [13436:14072:1218/131938.550:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 13:19:42.14 [13436:11840:1218/131942.142:ERROR:device_event_log_impl.cc(192)] [13:19:42.141] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 13:19:47.69 [13436:11840:1218/131947.696:ERROR:device_event_log_impl.cc(192)] [13:19:47.695] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 13:19:51.73 [13436:11840:1218/131951.732:ERROR:device_event_log_impl.cc(192)] [13:19:51.731] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 13:19:53.74 [13436:11840:1218/131953.744:ERROR:device_event_log_impl.cc(192)] [13:19:53.743] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 13:19:58.35 [13436:11840:1218/131958.355:ERROR:usb_descriptors.cc(141)] Failed to read length for configuration 0.
+Dec 18, 2023 13:19:58.35 [13436:11840:1218/131958.355:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Dec 18, 2023 13:19:58.35 [13436:11840:1218/131958.355:ERROR:device_event_log_impl.cc(192)] [13:19:58.355] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 18, 2023 13:20:00.09 [13436:11840:1218/132000.097:ERROR:device_event_log_impl.cc(192)] [13:20:00.096] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 13:20:05.92 [13436:11840:1218/132005.919:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Dec 18, 2023 13:20:05.92 [13436:11840:1218/132005.919:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Dec 18, 2023 13:20:05.92 [13436:11840:1218/132005.920:ERROR:device_event_log_impl.cc(192)] [13:20:05.919] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 18, 2023 13:20:12.03 [13436:11840:1218/132012.038:ERROR:device_event_log_impl.cc(192)] [13:20:12.037] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 13:29:17.00 [13436:14072:1218/132917.003:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 13:50:30.67 [13436:11840:1218/135030.671:ERROR:device_event_log_impl.cc(192)] [13:50:30.671] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 13:50:31.24 [13436:14072:1218/135031.247:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 13:50:33.26 [13436:11840:1218/135033.269:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Dec 18, 2023 13:50:33.27 [13436:11840:1218/135033.269:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Dec 18, 2023 13:50:33.27 [13436:11840:1218/135033.269:ERROR:device_event_log_impl.cc(192)] [13:50:33.269] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 18, 2023 13:50:33.31 [13436:11840:1218/135033.317:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 18, 2023 13:50:33.31 [13436:11840:1218/135033.317:ERROR:device_event_log_impl.cc(192)] [13:50:33.317] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 18, 2023 13:50:35.75 [13436:14072:1218/135035.752:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 18, 2023 13:50:50.93 [13436:14072:1218/135050.939:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 13:51:02.33 [13436:14072:1218/135102.337:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 13:51:03.40 [13436:11840:1218/135103.407:ERROR:device_event_log_impl.cc(192)] [13:51:03.406] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 13:51:04.66 [13436:14072:1218/135104.667:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 18, 2023 13:53:28.24 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 18, 2023 13:53:28.24 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#56 is a dynamic-sized tensor).
+Dec 18, 2023 13:55:40.71 [13436:11840:1218/135540.715:ERROR:debug_utils.cc(14)] Hit debug scenario: 3
+Dec 18, 2023 13:56:25.77 [13436:14072:1218/135625.778:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 13:56:32.43 [13436:14072:1218/135632.435:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 13:56:49.57 [13436:14072:1218/135649.571:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 13:57:08.24 [13436:11840:1218/135708.248:ERROR:device_event_log_impl.cc(192)] [13:57:08.248] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 13:57:28.44 [13436:11840:1218/135728.445:ERROR:device_event_log_impl.cc(192)] [13:57:28.444] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 13:57:31.92 [13436:11840:1218/135731.927:ERROR:device_event_log_impl.cc(192)] [13:57:31.926] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 13:57:33.94 [13436:11840:1218/135733.943:ERROR:device_event_log_impl.cc(192)] [13:57:33.941] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 13:58:00.69 [13436:11840:1218/135800.698:ERROR:device_event_log_impl.cc(192)] [13:58:00.697] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 13:58:11.93 [13436:14072:1218/135811.935:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 13:58:23.90 [13436:14072:1218/135823.903:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 13:58:52.40 [13436:11840:1218/135852.402:ERROR:device_event_log_impl.cc(192)] [13:58:52.401] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 13:59:00.35 [13436:11840:1218/135900.357:ERROR:device_event_log_impl.cc(192)] [13:59:00.356] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 13:59:31.20 [13436:11840:1218/135931.208:ERROR:device_event_log_impl.cc(192)] [13:59:31.207] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 14:01:43.06 [13436:11840:1218/140143.061:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 18, 2023 14:01:43.06 [13436:11840:1218/140143.061:ERROR:device_event_log_impl.cc(192)] [14:01:43.061] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 18, 2023 14:01:47.34 [13436:14072:1218/140147.343:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 18, 2023 14:02:08.56 [13436:14072:1218/140208.563:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 14:02:21.41 [13436:11840:1218/140221.412:ERROR:device_event_log_impl.cc(192)] [14:02:21.412] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 14:12:11.60 [13436:14072:1218/141211.605:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 14:21:42.42 [13436:11840:1218/142142.424:ERROR:device_event_log_impl.cc(192)] [14:21:42.424] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 14:22:20.65 [13436:14072:1218/142220.658:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 16:13:32.77 [13436:11840:1218/161332.755:ERROR:device_event_log_impl.cc(192)] [16:13:32.755] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 16:13:34.66 [13436:11840:1218/161334.660:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 18, 2023 16:13:34.66 [13436:11840:1218/161334.660:ERROR:device_event_log_impl.cc(192)] [16:13:34.661] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 18, 2023 16:13:35.50 [13436:11840:1218/161335.500:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 18, 2023 16:13:35.50 [13436:11840:1218/161335.500:ERROR:device_event_log_impl.cc(192)] [16:13:35.501] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 18, 2023 16:13:36.55 [13436:11840:1218/161336.558:ERROR:device_event_log_impl.cc(192)] [16:13:36.557] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Dec 18, 2023 16:13:37.27 [13436:11840:1218/161337.276:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Dec 18, 2023 16:13:37.27 [13436:11840:1218/161337.276:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Dec 18, 2023 16:13:37.27 [13436:11840:1218/161337.276:ERROR:device_event_log_impl.cc(192)] [16:13:37.276] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 18, 2023 16:13:37.27 [13436:11840:1218/161337.279:ERROR:device_event_log_impl.cc(192)] [16:13:37.279] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Dec 18, 2023 16:13:38.64 [13436:9704:1218/161338.642:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 18, 2023 16:13:38.67 [13436:14072:1218/161338.676:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 18, 2023 16:13:45.43 [13436:2624:1218/161345.435:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Dec 18, 2023 16:13:46.13 [13436:11840:1218/161346.131:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Dec 18, 2023 16:13:46.13 [13436:11840:1218/161346.131:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Dec 18, 2023 16:13:46.13 [13436:11840:1218/161346.131:ERROR:device_event_log_impl.cc(192)] [16:13:46.131] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0c45&pid_670b#6&36ddd81c&0&5#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 18, 2023 16:14:30.67 [13436:11840:1218/161430.676:ERROR:device_event_log_impl.cc(192)] [16:14:30.676] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 16:17:19.52 [13436:11840:1218/161719.520:ERROR:device_event_log_impl.cc(192)] [16:17:19.520] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 18:05:46.21 [13436:14072:1218/180546.212:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 18:54:03.82 [13436:11840:1218/185403.820:ERROR:device_event_log_impl.cc(192)] [18:54:03.819] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 18:54:04.20 [13436:14072:1218/185404.202:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 18:54:05.72 [13436:11840:1218/185405.720:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 18, 2023 18:54:05.72 [13436:11840:1218/185405.720:ERROR:device_event_log_impl.cc(192)] [18:54:05.720] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 18, 2023 18:54:09.75 [13436:11840:1218/185409.750:ERROR:device_event_log_impl.cc(192)] [18:54:09.750] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 18:54:17.59 [13436:11840:1218/185417.594:ERROR:device_event_log_impl.cc(192)] [18:54:17.595] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 18:54:20.28 [13436:11840:1218/185420.289:ERROR:device_event_log_impl.cc(192)] [18:54:20.289] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 18:54:26.33 [13436:11840:1218/185426.333:ERROR:device_event_log_impl.cc(192)] [18:54:26.333] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 18:54:28.35 [13436:11840:1218/185428.354:ERROR:device_event_log_impl.cc(192)] [18:54:28.354] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 18:55:08.84 [13436:11840:1218/185508.841:ERROR:device_event_log_impl.cc(192)] [18:55:08.841] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 19:21:10.93 [13436:14072:1218/192110.938:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 21:42:07.72 [13436:11840:1218/214207.723:ERROR:device_event_log_impl.cc(192)] [21:42:07.722] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 21:42:09.63 [13436:11840:1218/214209.637:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 18, 2023 21:42:09.63 [13436:11840:1218/214209.637:ERROR:device_event_log_impl.cc(192)] [21:42:09.637] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 18, 2023 21:42:10.32 [13436:14072:1218/214210.322:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 18, 2023 21:42:10.32 [13436:7360:1218/214210.323:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 18, 2023 21:42:14.51 [13436:11840:1218/214214.515:ERROR:device_event_log_impl.cc(192)] [21:42:14.514] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 21:43:13.23 [13436:11840:1218/214313.236:ERROR:device_event_log_impl.cc(192)] [21:43:13.235] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 21:43:18.91 [13436:11840:1218/214318.917:ERROR:device_event_log_impl.cc(192)] [21:43:18.917] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 21:43:20.92 [13436:11840:1218/214320.925:ERROR:device_event_log_impl.cc(192)] [21:43:20.924] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 21:43:22.45 [13436:11840:1218/214322.454:ERROR:device_event_log_impl.cc(192)] [21:43:22.454] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 21:43:24.58 [13436:11840:1218/214324.588:ERROR:device_event_log_impl.cc(192)] [21:43:24.587] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 18, 2023 21:43:28.75 [13436:11840:1218/214328.754:ERROR:device_event_log_impl.cc(192)] [21:43:28.754] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 18, 2023 21:54:51.13 [13436:14072:1218/215451.132:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 19, 2023 24:54:50.72 [13436:11840:1219/005450.723:ERROR:device_event_log_impl.cc(192)] [00:54:50.711] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 19, 2023 24:54:51.46 [13436:14072:1219/005451.252:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 19, 2023 14:57:41.30 [13436:11840:1219/145741.301:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 19, 2023 14:57:41.30 [13436:11840:1219/145741.302:ERROR:device_event_log_impl.cc(192)] [14:57:41.301] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 19, 2023 14:57:42.29 [13436:10772:1219/145742.298:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 19, 2023 14:57:42.31 [13436:14072:1219/145742.310:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2023 14:58:10.51 [13436:14072:1219/145810.510:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 19, 2023 14:58:17.89 [13436:14072:1219/145817.894:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 19, 2023 14:58:17.89 [13436:11840:1219/145817.897:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Dec 19, 2023 14:58:24.94 [13436:14072:1219/145824.947:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2023 14:58:58.76 [13436:14072:1219/145858.769:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 19, 2023 15:01:01.72 [13436:11840:1219/150101.727:ERROR:device_event_log_impl.cc(192)] [15:01:01.725] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 19, 2023 15:07:23.25 [13436:11840:1219/150723.257:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 19, 2023 15:07:23.25 [13436:11840:1219/150723.258:ERROR:device_event_log_impl.cc(192)] [15:07:23.257] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 19, 2023 15:07:25.48 [13436:14072:1219/150725.485:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 19, 2023 15:07:44.66 [13436:11840:1219/150744.661:ERROR:device_event_log_impl.cc(192)] [15:07:44.661] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 19, 2023 15:07:46.58 [13436:11840:1219/150746.582:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 19, 2023 15:07:46.58 [13436:11840:1219/150746.584:ERROR:device_event_log_impl.cc(192)] [15:07:46.582] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 19, 2023 15:07:52.42 [13436:11840:1219/150752.420:ERROR:device_event_log_impl.cc(192)] [15:07:52.419] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 19, 2023 15:07:54.56 [13436:11840:1219/150754.562:ERROR:device_event_log_impl.cc(192)] [15:07:54.562] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 19, 2023 15:08:08.35 [13436:11840:1219/150808.353:ERROR:device_event_log_impl.cc(192)] [15:08:08.352] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 19, 2023 15:22:42.36 [13436:14072:1219/152242.363:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 19, 2023 15:51:45.74 [13436:11840:1219/155145.745:ERROR:device_event_log_impl.cc(192)] [15:51:45.745] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 19, 2023 15:51:46.18 [13436:14072:1219/155146.182:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 19, 2023 15:51:47.70 [13436:11840:1219/155147.708:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 19, 2023 15:51:47.70 [13436:11840:1219/155147.709:ERROR:device_event_log_impl.cc(192)] [15:51:47.708] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 19, 2023 15:51:51.24 [13436:14072:1219/155151.241:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2023 15:51:51.39 [13436:11840:1219/155151.396:ERROR:device_event_log_impl.cc(192)] [15:51:51.396] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 19, 2023 15:52:02.48 [13436:14072:1219/155202.479:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 19, 2023 15:52:11.00 [13436:11840:1219/155211.001:ERROR:device_event_log_impl.cc(192)] [15:52:11.001] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 19, 2023 18:34:13.35 [13436:14072:1219/183413.351:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 19, 2023 18:41:11.18 [13436:11840:1219/184111.189:ERROR:device_event_log_impl.cc(192)] [18:41:11.168] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 19, 2023 18:41:11.22 [13436:14072:1219/184111.223:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 19, 2023 18:41:12.03 [13436:11840:1219/184112.035:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 19, 2023 18:41:12.03 [13436:11840:1219/184112.036:ERROR:device_event_log_impl.cc(192)] [18:41:12.035] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 19, 2023 18:41:24.81 [13436:11840:1219/184124.816:ERROR:device_event_log_impl.cc(192)] [18:41:24.816] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 19, 2023 19:05:24.39 [13436:11840:1219/190524.396:ERROR:device_event_log_impl.cc(192)] [19:05:24.395] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 19, 2023 19:43:24.28 [13436:11840:1219/194324.281:ERROR:device_event_log_impl.cc(192)] [19:43:24.280] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 19, 2023 20:57:45.52 [13436:11840:1219/205745.528:ERROR:device_event_log_impl.cc(192)] [20:57:45.527] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 19, 2023 21:05:28.79 [13436:14072:1219/210528.791:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 24:05:31.60 [13436:11840:1220/000531.607:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 20, 2023 24:05:31.60 [13436:11840:1220/000531.608:ERROR:device_event_log_impl.cc(192)] [00:05:31.608] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 20, 2023 11:20:21.77 [13436:11840:1220/112021.772:ERROR:device_event_log_impl.cc(192)] [11:20:21.766] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:20:22.96 [13436:14072:1220/112022.967:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 20, 2023 11:20:24.06 [13436:11840:1220/112024.062:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 20, 2023 11:20:24.06 [13436:11840:1220/112024.062:ERROR:device_event_log_impl.cc(192)] [11:20:24.062] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 20, 2023 11:20:25.37 [13436:14072:1220/112025.369:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2023 11:20:25.37 [13436:14072:1220/112025.375:ERROR:checkin_request.cc(243)] Check-in request got net error: -105
+Dec 20, 2023 11:20:25.41 [13436:2624:1220/112025.410:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 20, 2023 11:20:26.67 [13436:11840:1220/112026.670:ERROR:device_event_log_impl.cc(192)] [11:20:26.670] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:21:17.26 [13436:14072:1220/112117.259:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 11:21:29.64 [13436:11840:1220/112129.647:ERROR:device_event_log_impl.cc(192)] [11:21:29.654] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:21:31.28 [13436:11840:1220/112131.282:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 20, 2023 11:21:31.28 [13436:11840:1220/112131.282:ERROR:device_event_log_impl.cc(192)] [11:21:31.282] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 20, 2023 11:22:24.57 [13436:11840:1220/112224.576:ERROR:device_event_log_impl.cc(192)] [11:22:24.575] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:39:51.84 [13436:14072:1220/113951.844:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 11:42:10.56 [13436:14072:1220/114210.566:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 20, 2023 11:42:10.67 [13436:11840:1220/114210.677:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 20, 2023 11:42:10.67 [13436:11840:1220/114210.677:ERROR:device_event_log_impl.cc(192)] [11:42:10.677] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 20, 2023 11:42:12.10 [13436:11840:1220/114212.101:ERROR:device_event_log_impl.cc(192)] [11:42:12.100] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:42:15.59 [13436:11840:1220/114215.592:ERROR:device_event_log_impl.cc(192)] [11:42:15.592] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:42:28.09 [13436:11840:1220/114228.096:ERROR:device_event_log_impl.cc(192)] [11:42:28.096] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:42:39.48 [13436:11840:1220/114239.485:ERROR:device_event_log_impl.cc(192)] [11:42:39.484] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:42:43.40 [13436:11840:1220/114243.409:ERROR:device_event_log_impl.cc(192)] [11:42:43.408] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:42:49.69 [13436:11840:1220/114249.697:ERROR:device_event_log_impl.cc(192)] [11:42:49.697] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:42:51.71 [13436:11840:1220/114251.710:ERROR:device_event_log_impl.cc(192)] [11:42:51.710] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:42:54.51 [13436:11840:1220/114254.518:ERROR:device_event_log_impl.cc(192)] [11:42:54.518] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:43:13.23 [13436:11840:1220/114313.238:ERROR:device_event_log_impl.cc(192)] [11:43:13.238] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:43:24.75 [13436:11840:1220/114324.754:ERROR:device_event_log_impl.cc(192)] [11:43:24.753] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:43:31.43 [13436:11840:1220/114331.434:ERROR:device_event_log_impl.cc(192)] [11:43:31.433] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:45:39.78 [13436:11840:1220/114539.782:ERROR:device_event_log_impl.cc(192)] [11:45:39.780] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:45:53.58 [13436:11840:1220/114553.585:ERROR:device_event_log_impl.cc(192)] [11:45:53.584] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:46:12.03 [13436:11840:1220/114612.030:ERROR:device_event_log_impl.cc(192)] [11:46:12.029] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:46:14.04 [13436:11840:1220/114614.042:ERROR:device_event_log_impl.cc(192)] [11:46:14.042] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:46:43.40 [13436:11840:1220/114643.401:ERROR:device_event_log_impl.cc(192)] [11:46:43.401] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:46:46.70 [13436:11840:1220/114646.704:ERROR:device_event_log_impl.cc(192)] [11:46:46.703] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:47:06.28 [13436:11840:1220/114706.280:ERROR:device_event_log_impl.cc(192)] [11:47:06.279] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:47:07.85 [13436:11840:1220/114707.855:ERROR:device_event_log_impl.cc(192)] [11:47:07.855] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:47:14.32 [13436:11840:1220/114714.324:ERROR:device_event_log_impl.cc(192)] [11:47:14.324] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:47:16.33 [13436:11840:1220/114716.336:ERROR:device_event_log_impl.cc(192)] [11:47:16.335] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:47:27.33 [13436:11840:1220/114727.332:ERROR:device_event_log_impl.cc(192)] [11:47:27.332] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:47:29.35 [13436:11840:1220/114729.354:ERROR:device_event_log_impl.cc(192)] [11:47:29.353] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:47:34.55 [13436:11840:1220/114734.550:ERROR:device_event_log_impl.cc(192)] [11:47:34.549] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:47:36.09 [13436:11840:1220/114736.098:ERROR:device_event_log_impl.cc(192)] [11:47:36.097] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:47:55.47 [13436:11840:1220/114755.475:ERROR:device_event_log_impl.cc(192)] [11:47:55.474] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:47:57.50 [13436:11840:1220/114757.503:ERROR:device_event_log_impl.cc(192)] [11:47:57.502] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:48:17.40 [13436:11840:1220/114817.402:ERROR:device_event_log_impl.cc(192)] [11:48:17.402] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:48:18.92 [13436:11840:1220/114818.927:ERROR:device_event_log_impl.cc(192)] [11:48:18.927] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:48:34.47 [13436:11840:1220/114834.472:ERROR:device_event_log_impl.cc(192)] [11:48:34.472] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:48:36.01 [13436:11840:1220/114836.009:ERROR:device_event_log_impl.cc(192)] [11:48:36.009] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:48:41.58 [13436:11840:1220/114841.587:ERROR:device_event_log_impl.cc(192)] [11:48:41.586] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:48:42.73 [13436:11840:1220/114842.730:ERROR:device_event_log_impl.cc(192)] [11:48:42.729] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:48:53.46 [13436:11840:1220/114853.468:ERROR:device_event_log_impl.cc(192)] [11:48:53.466] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:48:56.01 [13436:11840:1220/114856.016:ERROR:device_event_log_impl.cc(192)] [11:48:56.016] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:49:06.63 [13436:11840:1220/114906.632:ERROR:device_event_log_impl.cc(192)] [11:49:06.632] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:49:08.16 [13436:11840:1220/114908.160:ERROR:device_event_log_impl.cc(192)] [11:49:08.160] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:49:14.19 [13436:11840:1220/114914.197:ERROR:device_event_log_impl.cc(192)] [11:49:14.196] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:49:16.21 [13436:11840:1220/114916.219:ERROR:device_event_log_impl.cc(192)] [11:49:16.217] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:49:26.15 [13436:11840:1220/114926.153:ERROR:device_event_log_impl.cc(192)] [11:49:26.152] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:49:27.72 [13436:11840:1220/114927.719:ERROR:device_event_log_impl.cc(192)] [11:49:27.718] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:49:29.27 [13436:11840:1220/114929.271:ERROR:device_event_log_impl.cc(192)] [11:49:29.270] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:49:33.33 [13436:11840:1220/114933.335:ERROR:device_event_log_impl.cc(192)] [11:49:33.334] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:49:54.28 [13436:11840:1220/114954.284:ERROR:device_event_log_impl.cc(192)] [11:49:54.283] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:49:56.50 [13436:11840:1220/114956.509:ERROR:device_event_log_impl.cc(192)] [11:49:56.508] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:50:05.69 [13436:11840:1220/115005.693:ERROR:device_event_log_impl.cc(192)] [11:50:05.691] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:50:10.65 [13436:11840:1220/115010.657:ERROR:device_event_log_impl.cc(192)] [11:50:10.655] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 11:50:12.66 [13436:11840:1220/115012.668:ERROR:device_event_log_impl.cc(192)] [11:50:12.667] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 11:50:14.38 [13436:11840:1220/115014.388:ERROR:device_event_log_impl.cc(192)] [11:50:14.388] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 12:03:14.87 [13436:14072:1220/120314.879:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 12:04:08.10 [13436:14072:1220/120407.228:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2023 12:04:08.69 [13436:11840:1220/120408.690:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 20, 2023 12:04:08.69 [13436:11840:1220/120408.691:ERROR:device_event_log_impl.cc(192)] [12:04:08.691] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 20, 2023 12:04:28.50 [13436:11840:1220/120428.501:ERROR:device_event_log_impl.cc(192)] [12:04:28.501] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 12:08:21.15 [13436:14072:1220/120821.157:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2023 12:08:25.93 [13436:14072:1220/120825.930:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2023 12:08:35.03 [13436:14072:1220/120835.030:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2023 12:10:14.44 [13436:14072:1220/121014.440:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2023 12:13:09.87 [13436:14072:1220/121309.879:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2023 12:17:18.17 [13436:11840:1220/121718.169:ERROR:device_event_log_impl.cc(192)] [12:17:18.168] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 12:20:50.74 [13436:14072:1220/122050.746:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2023 12:24:48.85 [13436:11840:1220/122448.844:ERROR:device_event_log_impl.cc(192)] [12:24:48.838] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 12:30:50.76 [13436:14072:1220/123050.761:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2023 12:33:19.66 [13436:14072:1220/123319.667:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 12:34:03.67 [13436:11840:1220/123403.669:ERROR:device_event_log_impl.cc(192)] [12:34:03.674] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 12:34:05.27 [13436:11840:1220/123405.270:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 20, 2023 12:34:05.27 [13436:11840:1220/123405.270:ERROR:device_event_log_impl.cc(192)] [12:34:05.269] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 20, 2023 12:34:09.31 [13436:14072:1220/123409.316:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2023 12:34:22.98 [13436:14072:1220/123422.981:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2023 12:34:32.46 [13436:14072:1220/123432.463:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2023 12:37:06.44 [13436:11840:1220/123706.444:ERROR:device_event_log_impl.cc(192)] [12:37:06.443] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 12:44:13.22 [13436:14072:1220/124413.229:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 12:47:39.74 [13436:11840:1220/124739.748:ERROR:device_event_log_impl.cc(192)] [12:47:39.747] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 12:47:41.12 [13436:11840:1220/124741.125:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 20, 2023 12:47:41.12 [13436:11840:1220/124741.125:ERROR:device_event_log_impl.cc(192)] [12:47:41.124] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 20, 2023 12:47:59.67 [13436:14072:1220/124759.672:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Dec 20, 2023 12:48:26.96 [13436:14072:1220/124826.960:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2023 12:48:37.76 [13436:11840:1220/124837.768:ERROR:device_event_log_impl.cc(192)] [12:48:37.767] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 12:53:43.39 [13436:11840:1220/125343.393:ERROR:device_event_log_impl.cc(192)] [12:53:43.392] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 12:54:23.49 [13436:11840:1220/125423.491:ERROR:device_event_log_impl.cc(192)] [12:54:23.491] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 12:59:08.52 [13436:14072:1220/125908.524:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 13:01:05.66 [13436:11840:1220/130105.661:ERROR:device_event_log_impl.cc(192)] [13:01:05.661] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 13:01:07.25 [13436:11840:1220/130107.258:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 20, 2023 13:01:07.25 [13436:11840:1220/130107.259:ERROR:device_event_log_impl.cc(192)] [13:01:07.258] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 20, 2023 13:01:13.01 [13436:14072:1220/130113.016:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 14:36:18.70 [13436:11840:1220/143618.700:ERROR:device_event_log_impl.cc(192)] [14:36:18.699] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 14:36:20.33 [13436:11840:1220/143620.324:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 20, 2023 14:36:20.33 [13436:11840:1220/143620.324:ERROR:device_event_log_impl.cc(192)] [14:36:20.324] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 20, 2023 14:36:22.60 [13436:14072:1220/143622.608:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 20, 2023 15:40:28.44 [13436:11840:1220/154028.442:ERROR:device_event_log_impl.cc(192)] [15:40:28.440] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 15:50:19.36 [13436:11840:1220/155019.363:ERROR:device_event_log_impl.cc(192)] [15:50:19.363] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 15:52:22.34 [13436:14072:1220/155222.345:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 16:05:15.24 [13436:14072:1220/160515.244:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 20, 2023 16:05:17.37 [13436:11840:1220/160517.371:ERROR:device_event_log_impl.cc(192)] [16:05:17.371] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 20, 2023 16:06:27.70 [13436:11840:1220/160627.707:ERROR:device_event_log_impl.cc(192)] [16:06:27.706] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 18:15:13.36 [13436:14072:1220/181513.361:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 18:40:15.66 [13436:11840:1220/184015.666:ERROR:device_event_log_impl.cc(192)] [18:40:15.665] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 18:40:17.71 [13436:11840:1220/184017.710:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 20, 2023 18:40:17.71 [13436:11840:1220/184017.710:ERROR:device_event_log_impl.cc(192)] [18:40:17.710] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 20, 2023 18:42:06.08 [13436:11840:1220/184206.081:ERROR:device_event_log_impl.cc(192)] [18:42:06.080] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 18:57:14.82 [13436:11840:1220/185714.826:ERROR:device_event_log_impl.cc(192)] [18:57:14.826] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 19:27:42.26 [17136:13048:1220/192742.267:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 20:28:53.04 [17136:13216:1220/202853.044:ERROR:device_event_log_impl.cc(192)] [20:28:53.043] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 20:28:53.49 [17136:13048:1220/202853.491:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 20:28:54.77 [17136:13216:1220/202854.773:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 20, 2023 20:28:54.77 [17136:13216:1220/202854.773:ERROR:device_event_log_impl.cc(192)] [20:28:54.772] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 20, 2023 20:32:34.67 [17136:13048:1220/203234.677:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 23:32:34.80 [17136:13216:1220/233234.809:ERROR:device_event_log_impl.cc(192)] [23:32:34.809] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 13:34:58.76 [17136:13216:1221/133458.766:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 21, 2023 13:34:58.76 [17136:13216:1221/133458.768:ERROR:device_event_log_impl.cc(192)] [13:34:58.767] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 21, 2023 13:35:00.64 [17136:13216:1221/133500.643:ERROR:device_event_log_impl.cc(192)] [13:35:00.643] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 13:35:00.92 [17136:1712:1221/133500.928:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 21, 2023 13:35:00.93 [17136:13048:1221/133500.938:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 13:35:06.61 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 21, 2023 13:35:09.39 [17136:13048:1221/133509.399:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 21, 2023 13:35:09.40 [17136:8040:1221/133509.400:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 21, 2023 13:35:13.91 [17136:13048:1221/133513.909:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 21, 2023 13:35:13.91 [17136:8040:1221/133513.913:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 21, 2023 13:35:30.98 [17136:13048:1221/133530.981:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 21, 2023 14:42:54.70 [17136:13216:1221/144254.705:ERROR:device_event_log_impl.cc(192)] [14:42:54.704] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 14:42:56.67 [17136:13216:1221/144256.671:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 21, 2023 14:42:56.67 [17136:13216:1221/144256.671:ERROR:device_event_log_impl.cc(192)] [14:42:56.671] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 21, 2023 14:42:58.23 [17136:13048:1221/144258.237:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 21, 2023 14:42:58.23 [17136:13048:1221/144258.239:ERROR:checkin_request.cc(243)] Check-in request got net error: -105
+Dec 21, 2023 14:42:58.24 [17136:1712:1221/144258.244:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 21, 2023 14:43:03.40 [17136:8040:1221/144303.405:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Dec 21, 2023 14:44:14.29 [17136:13216:1221/144414.290:ERROR:device_event_log_impl.cc(192)] [14:44:14.289] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:46:20.10 [17136:13048:1221/154620.100:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 15:46:52.98 [17136:13048:1221/154652.989:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 15:47:52.88 [17136:13048:1221/154752.886:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 15:51:53.53 [17136:13216:1221/155153.536:ERROR:device_event_log_impl.cc(192)] [15:51:53.533] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 15:52:06.92 [17136:13216:1221/155206.924:ERROR:device_event_log_impl.cc(192)] [15:52:06.923] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:55:58.26 [17136:13216:1221/155558.265:ERROR:device_event_log_impl.cc(192)] [15:55:58.264] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 15:56:13.54 [17136:13216:1221/155613.544:ERROR:device_event_log_impl.cc(192)] [15:56:13.543] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:56:15.09 [17136:13216:1221/155615.097:ERROR:device_event_log_impl.cc(192)] [15:56:15.096] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 15:56:17.09 [17136:13216:1221/155617.098:ERROR:device_event_log_impl.cc(192)] [15:56:17.097] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:56:22.66 [17136:13216:1221/155622.662:ERROR:device_event_log_impl.cc(192)] [15:56:22.661] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 15:56:34.93 [17136:13216:1221/155634.931:ERROR:device_event_log_impl.cc(192)] [15:56:34.930] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:56:39.77 [17136:13216:1221/155639.778:ERROR:device_event_log_impl.cc(192)] [15:56:39.776] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 15:57:07.17 [17136:13216:1221/155707.178:ERROR:device_event_log_impl.cc(192)] [15:57:07.177] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:57:11.34 [17136:13216:1221/155711.347:ERROR:device_event_log_impl.cc(192)] [15:57:11.345] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 15:58:12.28 [17136:13216:1221/155812.285:ERROR:device_event_log_impl.cc(192)] [15:58:12.285] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:58:14.31 [17136:13216:1221/155814.318:ERROR:device_event_log_impl.cc(192)] [15:58:14.317] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 15:58:31.23 [17136:13216:1221/155831.230:ERROR:device_event_log_impl.cc(192)] [15:58:31.228] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:58:36.68 [17136:13216:1221/155836.679:ERROR:device_event_log_impl.cc(192)] [15:58:36.678] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 15:58:47.67 [17136:13216:1221/155847.669:ERROR:device_event_log_impl.cc(192)] [15:58:47.668] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:58:49.69 [17136:13216:1221/155849.690:ERROR:device_event_log_impl.cc(192)] [15:58:49.689] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 15:59:01.58 [17136:13216:1221/155901.581:ERROR:device_event_log_impl.cc(192)] [15:59:01.580] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:59:05.61 [17136:13216:1221/155905.617:ERROR:device_event_log_impl.cc(192)] [15:59:05.615] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 15:59:18.05 [17136:13216:1221/155918.052:ERROR:device_event_log_impl.cc(192)] [15:59:18.051] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:59:20.06 [17136:13216:1221/155920.067:ERROR:device_event_log_impl.cc(192)] [15:59:20.067] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 15:59:28.24 [17136:13216:1221/155928.246:ERROR:device_event_log_impl.cc(192)] [15:59:28.246] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:59:32.28 [17136:13216:1221/155932.284:ERROR:device_event_log_impl.cc(192)] [15:59:32.283] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 15:59:34.30 [17136:13216:1221/155934.300:ERROR:device_event_log_impl.cc(192)] [15:59:34.299] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:59:36.32 [17136:13216:1221/155936.323:ERROR:device_event_log_impl.cc(192)] [15:59:36.321] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 15:59:38.33 [17136:13216:1221/155938.330:ERROR:device_event_log_impl.cc(192)] [15:59:38.329] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:59:40.47 [17136:13216:1221/155940.476:ERROR:device_event_log_impl.cc(192)] [15:59:40.475] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 15:59:49.27 [17136:13216:1221/155949.269:ERROR:device_event_log_impl.cc(192)] [15:59:49.269] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 15:59:58.00 [17136:13216:1221/155958.000:ERROR:device_event_log_impl.cc(192)] [15:59:58.001] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 16:00:02.03 [17136:13216:1221/160002.039:ERROR:device_event_log_impl.cc(192)] [16:00:02.039] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 16:00:04.06 [17136:13216:1221/160004.062:ERROR:device_event_log_impl.cc(192)] [16:00:04.062] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 16:00:06.88 [17136:13216:1221/160006.884:ERROR:device_event_log_impl.cc(192)] [16:00:06.883] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 16:00:08.90 [17136:13216:1221/160008.901:ERROR:device_event_log_impl.cc(192)] [16:00:08.901] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 16:00:11.58 [17136:13216:1221/160011.585:ERROR:device_event_log_impl.cc(192)] [16:00:11.585] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 16:00:16.31 [17136:13216:1221/160016.313:ERROR:device_event_log_impl.cc(192)] [16:00:16.312] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 16:00:31.87 [17136:13216:1221/160031.872:ERROR:device_event_log_impl.cc(192)] [16:00:31.872] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 16:10:02.15 [17136:13048:1221/161002.158:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 21, 2023 16:10:24.71 [17136:13048:1221/161024.710:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 21, 2023 16:11:21.38 [17136:13048:1221/161121.384:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 21, 2023 16:13:08.10 [17136:13048:1221/161308.101:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 21, 2023 16:37:50.24 [17136:13216:1221/163750.240:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 21, 2023 16:37:50.26 [17136:13216:1221/163750.241:ERROR:device_event_log_impl.cc(192)] [16:37:50.241] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 21, 2023 16:37:50.61 [17136:13048:1221/163750.611:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 21, 2023 16:37:54.63 [17136:13216:1221/163754.630:ERROR:device_event_log_impl.cc(192)] [16:37:54.630] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 16:37:55.72 [17136:13048:1221/163755.727:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 16:38:23.28 [17136:13216:1221/163823.285:ERROR:device_event_log_impl.cc(192)] [16:38:23.284] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 16:38:25.30 [17136:13216:1221/163825.300:ERROR:device_event_log_impl.cc(192)] [16:38:25.300] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 21, 2023 16:38:31.24 [17136:13216:1221/163831.240:ERROR:device_event_log_impl.cc(192)] [16:38:31.239] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 19:20:07.50 [1860:16940:1221/192007.504:ERROR:device_event_log_impl.cc(192)] [19:20:07.503] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 20:08:54.53 [1860:16940:1221/200854.536:ERROR:device_event_log_impl.cc(192)] [20:08:54.536] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 20:44:11.26 [1860:8336:1221/204411.264:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 21, 2023 20:57:31.15 [1860:8336:1221/205731.156:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 21, 2023 20:57:32.17 [1860:16940:1221/205732.171:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 21, 2023 20:57:32.17 [1860:16940:1221/205732.172:ERROR:device_event_log_impl.cc(192)] [20:57:32.171] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 21, 2023 20:59:57.25 [1860:16940:1221/205957.253:ERROR:device_event_log_impl.cc(192)] [20:59:57.252] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 21:51:05.17 [1860:8336:1221/215105.169:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 22, 2023 12:05:00.48 [1860:8336:1222/120500.484:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 12:05:00.50 [1860:11836:1222/120500.508:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Dec 22, 2023 12:05:00.67 [1860:16940:1222/120500.677:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 22, 2023 12:05:00.76 [1860:16940:1222/120500.762:ERROR:device_event_log_impl.cc(192)] [12:05:00.676] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 22, 2023 12:08:27.04 [1860:16940:1222/120827.047:ERROR:device_event_log_impl.cc(192)] [12:08:27.047] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 12:16:09.14 [1860:16940:1222/121609.146:ERROR:device_event_log_impl.cc(192)] [12:16:09.146] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 12:16:50.76 [1860:16940:1222/121650.763:ERROR:device_event_log_impl.cc(192)] [12:16:50.763] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 12:16:52.78 [1860:16940:1222/121652.782:ERROR:device_event_log_impl.cc(192)] [12:16:52.781] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 12:16:54.79 [1860:16940:1222/121654.797:ERROR:device_event_log_impl.cc(192)] [12:16:54.796] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 12:16:56.83 [1860:16940:1222/121656.830:ERROR:device_event_log_impl.cc(192)] [12:16:56.829] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 12:17:16.32 [1860:16940:1222/121716.320:ERROR:device_event_log_impl.cc(192)] [12:17:16.319] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 12:17:18.34 [1860:16940:1222/121718.345:ERROR:device_event_log_impl.cc(192)] [12:17:18.346] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 12:17:48.81 [1860:16940:1222/121748.811:ERROR:device_event_log_impl.cc(192)] [12:17:48.811] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 12:17:50.85 [1860:16940:1222/121750.851:ERROR:device_event_log_impl.cc(192)] [12:17:50.851] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 12:17:54.90 [1860:16940:1222/121754.901:ERROR:device_event_log_impl.cc(192)] [12:17:54.900] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 12:17:56.92 [1860:16940:1222/121756.928:ERROR:device_event_log_impl.cc(192)] [12:17:56.927] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 12:18:09.07 [1860:16940:1222/121809.077:ERROR:device_event_log_impl.cc(192)] [12:18:09.075] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 12:18:11.08 [1860:16940:1222/121811.083:ERROR:device_event_log_impl.cc(192)] [12:18:11.082] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 12:18:21.19 [1860:16940:1222/121821.199:ERROR:device_event_log_impl.cc(192)] [12:18:21.197] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 12:18:23.22 [1860:16940:1222/121823.228:ERROR:device_event_log_impl.cc(192)] [12:18:23.227] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 12:27:31.44 [1860:8336:1222/122731.443:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 12:37:55.14 [1860:16940:1222/123755.145:ERROR:device_event_log_impl.cc(192)] [12:37:55.145] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 12:37:59.20 [1860:16940:1222/123759.201:ERROR:device_event_log_impl.cc(192)] [12:37:59.201] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 12:41:20.80 [1860:8336:1222/124120.804:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 22, 2023 13:34:05.77 [1860:16940:1222/133405.778:ERROR:device_event_log_impl.cc(192)] [13:34:05.778] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 13:34:07.28 [1860:16940:1222/133407.279:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 22, 2023 13:34:07.28 [1860:16940:1222/133407.280:ERROR:device_event_log_impl.cc(192)] [13:34:07.279] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 22, 2023 13:34:09.12 [1860:16940:1222/133409.120:ERROR:device_event_log_impl.cc(192)] [13:34:09.119] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 13:34:15.41 [1860:16940:1222/133415.413:ERROR:device_event_log_impl.cc(192)] [13:34:15.413] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 13:34:23.58 [1860:16940:1222/133423.584:ERROR:device_event_log_impl.cc(192)] [13:34:23.583] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 13:34:26.60 [1860:16940:1222/133426.603:ERROR:device_event_log_impl.cc(192)] [13:34:26.603] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 14:28:35.58 [1860:8336:1222/142835.586:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 22, 2023 17:28:37.24 [1860:8336:1222/172837.244:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 17:28:38.24 [1860:16940:1222/172838.246:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 22, 2023 17:28:38.24 [1860:16940:1222/172838.246:ERROR:device_event_log_impl.cc(192)] [17:28:38.246] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 22, 2023 20:19:05.69 [1860:16940:1222/201905.699:ERROR:device_event_log_impl.cc(192)] [20:19:05.699] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:19:08.23 [1860:8336:1222/201908.231:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 20:19:08.30 [1860:8336:1222/201908.300:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 22, 2023 20:19:08.31 [1860:8336:1222/201908.311:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 22, 2023 20:19:08.45 [1860:16940:1222/201908.454:ERROR:device_event_log_impl.cc(192)] [20:19:08.454] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:23:12.91 [1860:16940:1222/202312.914:ERROR:device_event_log_impl.cc(192)] [20:23:12.913] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:38:33.57 [1860:16940:1222/203833.575:ERROR:device_event_log_impl.cc(192)] [20:38:33.573] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:38:37.61 [1860:16940:1222/203837.613:ERROR:device_event_log_impl.cc(192)] [20:38:37.612] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:38:39.66 [1860:16940:1222/203839.663:ERROR:device_event_log_impl.cc(192)] [20:38:39.662] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:38:53.85 [1860:16940:1222/203853.851:ERROR:device_event_log_impl.cc(192)] [20:38:53.850] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:39:05.99 [1860:16940:1222/203905.998:ERROR:device_event_log_impl.cc(192)] [20:39:05.998] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:39:08.05 [1860:16940:1222/203908.055:ERROR:device_event_log_impl.cc(192)] [20:39:08.054] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:39:19.13 [1860:16940:1222/203919.138:ERROR:device_event_log_impl.cc(192)] [20:39:19.137] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:39:31.26 [1860:16940:1222/203931.263:ERROR:device_event_log_impl.cc(192)] [20:39:31.262] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:39:37.34 [1860:16940:1222/203937.349:ERROR:device_event_log_impl.cc(192)] [20:39:37.347] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:39:39.37 [1860:16940:1222/203939.374:ERROR:device_event_log_impl.cc(192)] [20:39:39.373] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:39:43.40 [1860:16940:1222/203943.406:ERROR:device_event_log_impl.cc(192)] [20:39:43.405] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:39:51.50 [1860:16940:1222/203951.501:ERROR:device_event_log_impl.cc(192)] [20:39:51.499] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:39:53.51 [1860:16940:1222/203953.515:ERROR:device_event_log_impl.cc(192)] [20:39:53.514] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:05.66 [1860:16940:1222/204005.668:ERROR:device_event_log_impl.cc(192)] [20:40:05.667] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:07.67 [1860:16940:1222/204007.678:ERROR:device_event_log_impl.cc(192)] [20:40:07.677] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:13.76 [1860:16940:1222/204013.766:ERROR:device_event_log_impl.cc(192)] [20:40:13.765] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:19.81 [1860:16940:1222/204019.817:ERROR:device_event_log_impl.cc(192)] [20:40:19.816] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:21.85 [1860:16940:1222/204021.852:ERROR:device_event_log_impl.cc(192)] [20:40:21.850] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:23.87 [1860:16940:1222/204023.874:ERROR:device_event_log_impl.cc(192)] [20:40:23.872] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:27.93 [1860:16940:1222/204027.936:ERROR:device_event_log_impl.cc(192)] [20:40:27.935] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:31.96 [1860:16940:1222/204031.969:ERROR:device_event_log_impl.cc(192)] [20:40:31.968] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:34.03 [1860:16940:1222/204034.036:ERROR:device_event_log_impl.cc(192)] [20:40:34.035] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:40.09 [1860:16940:1222/204040.092:ERROR:device_event_log_impl.cc(192)] [20:40:40.091] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:44.14 [1860:16940:1222/204044.143:ERROR:device_event_log_impl.cc(192)] [20:40:44.142] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:46.17 [1860:16940:1222/204046.177:ERROR:device_event_log_impl.cc(192)] [20:40:46.176] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:48.21 [1860:16940:1222/204048.216:ERROR:device_event_log_impl.cc(192)] [20:40:48.214] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:52.27 [1860:16940:1222/204052.273:ERROR:device_event_log_impl.cc(192)] [20:40:52.271] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:54.29 [1860:16940:1222/204054.297:ERROR:device_event_log_impl.cc(192)] [20:40:54.296] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:40:56.31 [1860:16940:1222/204056.318:ERROR:device_event_log_impl.cc(192)] [20:40:56.317] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:00.36 [1860:16940:1222/204100.369:ERROR:device_event_log_impl.cc(192)] [20:41:00.367] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:04.40 [1860:16940:1222/204104.401:ERROR:device_event_log_impl.cc(192)] [20:41:04.400] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:06.42 [1860:16940:1222/204106.422:ERROR:device_event_log_impl.cc(192)] [20:41:06.421] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:08.43 [1860:16940:1222/204108.436:ERROR:device_event_log_impl.cc(192)] [20:41:08.436] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:10.45 [1860:16940:1222/204110.454:ERROR:device_event_log_impl.cc(192)] [20:41:10.455] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:12.48 [1860:16940:1222/204112.484:ERROR:device_event_log_impl.cc(192)] [20:41:12.484] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:14.50 [1860:16940:1222/204114.505:ERROR:device_event_log_impl.cc(192)] [20:41:14.506] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:20.59 [1860:16940:1222/204120.598:ERROR:device_event_log_impl.cc(192)] [20:41:20.598] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:26.69 [1860:16940:1222/204126.692:ERROR:device_event_log_impl.cc(192)] [20:41:26.692] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:30.75 [1860:16940:1222/204130.757:ERROR:device_event_log_impl.cc(192)] [20:41:30.756] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:36.83 [1860:16940:1222/204136.838:ERROR:device_event_log_impl.cc(192)] [20:41:36.837] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:40.88 [1860:16940:1222/204140.884:ERROR:device_event_log_impl.cc(192)] [20:41:40.883] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:46.95 [1860:16940:1222/204146.954:ERROR:device_event_log_impl.cc(192)] [20:41:46.954] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:49.00 [1860:16940:1222/204149.003:ERROR:device_event_log_impl.cc(192)] [20:41:49.003] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:41:53.07 [1860:16940:1222/204153.076:ERROR:device_event_log_impl.cc(192)] [20:41:53.076] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:42:01.20 [1860:16940:1222/204201.200:ERROR:device_event_log_impl.cc(192)] [20:42:01.199] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:42:03.23 [1860:16940:1222/204203.230:ERROR:device_event_log_impl.cc(192)] [20:42:03.230] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:42:11.32 [1860:16940:1222/204211.319:ERROR:device_event_log_impl.cc(192)] [20:42:11.318] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:42:21.43 [1860:16940:1222/204221.436:ERROR:device_event_log_impl.cc(192)] [20:42:21.435] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:42:23.45 [1860:16940:1222/204223.453:ERROR:device_event_log_impl.cc(192)] [20:42:23.452] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:42:27.50 [1860:16940:1222/204227.505:ERROR:device_event_log_impl.cc(192)] [20:42:27.504] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:42:29.52 [1860:16940:1222/204229.521:ERROR:device_event_log_impl.cc(192)] [20:42:29.520] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:42:35.58 [1860:16940:1222/204235.580:ERROR:device_event_log_impl.cc(192)] [20:42:35.579] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:46:56.64 [1860:16940:1222/204656.639:ERROR:device_event_log_impl.cc(192)] [20:46:56.638] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:46:58.64 [1860:16940:1222/204658.648:ERROR:device_event_log_impl.cc(192)] [20:46:58.647] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:00.67 [1860:16940:1222/204700.674:ERROR:device_event_log_impl.cc(192)] [20:47:00.672] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:04.71 [1860:16940:1222/204704.715:ERROR:device_event_log_impl.cc(192)] [20:47:04.713] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:06.73 [1860:16940:1222/204706.733:ERROR:device_event_log_impl.cc(192)] [20:47:06.732] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:08.76 [1860:16940:1222/204708.761:ERROR:device_event_log_impl.cc(192)] [20:47:08.761] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:10.78 [1860:16940:1222/204710.784:ERROR:device_event_log_impl.cc(192)] [20:47:10.782] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:12.80 [1860:16940:1222/204712.800:ERROR:device_event_log_impl.cc(192)] [20:47:12.799] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:14.82 [1860:16940:1222/204714.826:ERROR:device_event_log_impl.cc(192)] [20:47:14.825] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:20.88 [1860:16940:1222/204720.883:ERROR:device_event_log_impl.cc(192)] [20:47:20.881] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:22.91 [1860:16940:1222/204722.917:ERROR:device_event_log_impl.cc(192)] [20:47:22.916] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:26.95 [1860:16940:1222/204726.953:ERROR:device_event_log_impl.cc(192)] [20:47:26.952] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:28.98 [1860:16940:1222/204728.983:ERROR:device_event_log_impl.cc(192)] [20:47:28.981] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:33.01 [1860:16940:1222/204733.017:ERROR:device_event_log_impl.cc(192)] [20:47:33.017] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:35.04 [1860:16940:1222/204735.045:ERROR:device_event_log_impl.cc(192)] [20:47:35.044] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:49.24 [1860:16940:1222/204749.241:ERROR:device_event_log_impl.cc(192)] [20:47:49.241] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 20:47:53.28 [1860:16940:1222/204753.286:ERROR:device_event_log_impl.cc(192)] [20:47:53.285] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 21:14:07.11 [1860:16940:1222/211407.110:ERROR:device_event_log_impl.cc(192)] [21:14:07.109] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 21:41:24.02 [1860:16940:1222/214124.023:ERROR:device_event_log_impl.cc(192)] [21:41:24.023] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 21:41:27.94 [1860:16940:1222/214127.940:ERROR:device_event_log_impl.cc(192)] [21:41:27.940] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 21:42:56.03 [1860:16940:1222/214256.033:ERROR:device_event_log_impl.cc(192)] [21:42:56.032] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 21:42:58.05 [1860:16940:1222/214258.055:ERROR:device_event_log_impl.cc(192)] [21:42:58.054] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 21:49:44.46 [1860:16940:1222/214944.464:ERROR:device_event_log_impl.cc(192)] [21:49:44.462] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 21:49:46.47 [1860:16940:1222/214946.477:ERROR:device_event_log_impl.cc(192)] [21:49:46.476] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 21:49:48.49 [1860:16940:1222/214948.494:ERROR:device_event_log_impl.cc(192)] [21:49:48.494] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 22, 2023 21:49:50.52 [1860:16940:1222/214950.519:ERROR:device_event_log_impl.cc(192)] [21:49:50.518] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 21:55:22.75 [1860:8336:1222/215522.757:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 24:55:26.08 [1860:8336:1223/005523.009:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 24:55:26.08 [1860:16940:1223/005524.303:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 23, 2023 24:55:26.09 [1860:16940:1223/005524.303:ERROR:device_event_log_impl.cc(192)] [00:55:24.303] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 23, 2023 11:40:47.48 [1860:16940:1223/114047.488:ERROR:device_event_log_impl.cc(192)] [11:40:47.378] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 11:40:48.68 [1860:16940:1223/114048.688:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 23, 2023 11:40:48.68 [1860:16940:1223/114048.689:ERROR:device_event_log_impl.cc(192)] [11:40:48.688] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 23, 2023 11:40:49.76 [1860:8336:1223/114049.768:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 11:40:49.76 [1860:8932:1223/114049.769:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 23, 2023 11:41:05.13 [1860:16940:1223/114105.130:ERROR:device_event_log_impl.cc(192)] [11:41:05.129] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 11:41:06.44 [1860:10412:1223/114106.448:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 11:41:06.44 [1860:8336:1223/114106.448:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 11:41:11.49 [1860:10412:1223/114111.498:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Dec 23, 2023 11:41:13.32 [1860:16940:1223/114113.320:ERROR:device_event_log_impl.cc(192)] [11:41:13.320] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 11:41:21.58 [1860:10412:1223/114121.580:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 11:41:23.62 [1860:8336:1223/114123.622:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 11:41:25.99 [1860:8336:1223/114125.992:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 11:41:31.79 [1860:8336:1223/114131.795:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 11:41:31.79 [1860:12300:1223/114131.796:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Dec 23, 2023 11:41:44.36 [1860:8336:1223/114144.365:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 11:41:44.36 [1860:12300:1223/114144.365:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 11:42:07.83 [1860:17032:1223/114207.830:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 11:42:37.88 [1860:8336:1223/114237.880:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 11:43:49.92 [1860:8336:1223/114349.929:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 11:52:22.97 [1860:17032:1223/115222.975:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 11:53:53.08 [1860:17032:1223/115353.081:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 11:53:59.01 [1860:8336:1223/115359.015:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 11:55:54.65 [1860:17032:1223/115554.657:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 11:58:46.46 [1860:17032:1223/115846.466:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 12:03:14.68 [1860:17032:1223/120314.684:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 12:04:02.09 [1860:8336:1223/120402.091:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 15:03:46.82 [1860:16940:1223/150346.824:ERROR:device_event_log_impl.cc(192)] [15:03:46.823] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:03:48.25 [1860:16940:1223/150348.251:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 23, 2023 15:03:48.25 [1860:16940:1223/150348.251:ERROR:device_event_log_impl.cc(192)] [15:03:48.251] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 23, 2023 15:03:49.48 [1860:8336:1223/150349.487:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 15:03:49.49 [1860:8336:1223/150349.489:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Dec 23, 2023 15:03:49.49 [1860:12988:1223/150349.490:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 23, 2023 15:04:10.46 [1860:8336:1223/150410.460:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 15:04:10.46 [1860:18088:1223/150410.462:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Dec 23, 2023 15:04:16.80 [1860:8336:1223/150416.802:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 15:04:16.80 [1860:18088:1223/150416.804:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Dec 23, 2023 15:04:23.92 [1860:16940:1223/150423.921:ERROR:device_event_log_impl.cc(192)] [15:04:23.920] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:04:33.92 [1860:8336:1223/150433.927:ERROR:checkin_request.cc(243)] Check-in request got net error: -105
+Dec 23, 2023 15:04:34.43 [1860:8336:1223/150434.432:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 15:04:43.42 [1860:10412:1223/150443.426:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_CONNECTION_TIMED_OUT)
+Dec 23, 2023 15:04:51.11 [1860:16940:1223/150451.111:ERROR:device_event_log_impl.cc(192)] [15:04:51.110] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:04:53.12 [1860:16940:1223/150453.125:ERROR:device_event_log_impl.cc(192)] [15:04:53.125] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:05:15.67 [1860:16940:1223/150515.673:ERROR:device_event_log_impl.cc(192)] [15:05:15.673] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:05:18.98 [1860:16940:1223/150518.984:ERROR:device_event_log_impl.cc(192)] [15:05:18.984] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:05:19.12 [1860:8336:1223/150519.122:ERROR:checkin_request.cc(243)] Check-in request got net error: -105
+Dec 23, 2023 15:05:41.37 [1860:16940:1223/150541.377:ERROR:device_event_log_impl.cc(192)] [15:05:41.376] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:05:44.20 [1860:16940:1223/150544.207:ERROR:device_event_log_impl.cc(192)] [15:05:44.206] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:05:48.25 [1860:16940:1223/150548.249:ERROR:device_event_log_impl.cc(192)] [15:05:48.249] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:05:57.55 [1860:16940:1223/150557.556:ERROR:device_event_log_impl.cc(192)] [15:05:57.556] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:05:59.78 [1860:16940:1223/150559.781:ERROR:device_event_log_impl.cc(192)] [15:05:59.780] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:06:01.79 [1860:16940:1223/150601.791:ERROR:device_event_log_impl.cc(192)] [15:06:01.790] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:06:05.34 [1860:16940:1223/150605.347:ERROR:device_event_log_impl.cc(192)] [15:06:05.347] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:06:07.36 [1860:16940:1223/150607.359:ERROR:device_event_log_impl.cc(192)] [15:06:07.357] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:06:39.78 [1860:16940:1223/150639.785:ERROR:device_event_log_impl.cc(192)] [15:06:39.785] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:06:48.70 [1860:16940:1223/150648.705:ERROR:device_event_log_impl.cc(192)] [15:06:48.704] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:06:52.74 [1860:16940:1223/150652.744:ERROR:device_event_log_impl.cc(192)] [15:06:52.744] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:06:54.75 [1860:16940:1223/150654.754:ERROR:device_event_log_impl.cc(192)] [15:06:54.754] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:00.33 [1860:16940:1223/150700.331:ERROR:device_event_log_impl.cc(192)] [15:07:00.331] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:01.86 [1860:16940:1223/150701.861:ERROR:device_event_log_impl.cc(192)] [15:07:01.861] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:05.40 [1860:16940:1223/150705.409:ERROR:device_event_log_impl.cc(192)] [15:07:05.408] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:07.42 [1860:16940:1223/150707.422:ERROR:device_event_log_impl.cc(192)] [15:07:07.422] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:10.86 [1860:8336:1223/150710.868:ERROR:checkin_request.cc(243)] Check-in request got net error: -105
+Dec 23, 2023 15:07:20.62 [1860:16940:1223/150720.627:ERROR:device_event_log_impl.cc(192)] [15:07:20.626] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:22.17 [1860:16940:1223/150722.171:ERROR:device_event_log_impl.cc(192)] [15:07:22.170] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:23.69 [1860:16940:1223/150723.698:ERROR:device_event_log_impl.cc(192)] [15:07:23.698] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:25.71 [1860:16940:1223/150725.717:ERROR:device_event_log_impl.cc(192)] [15:07:25.716] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:28.67 [1860:16940:1223/150728.671:ERROR:device_event_log_impl.cc(192)] [15:07:28.671] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:30.42 [1860:16940:1223/150730.427:ERROR:device_event_log_impl.cc(192)] [15:07:30.426] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:32.05 [1860:16940:1223/150732.055:ERROR:device_event_log_impl.cc(192)] [15:07:32.054] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:34.17 [1860:16940:1223/150734.178:ERROR:device_event_log_impl.cc(192)] [15:07:34.178] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:35.43 [1860:16940:1223/150735.439:ERROR:device_event_log_impl.cc(192)] [15:07:35.439] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:36.61 [1860:16940:1223/150736.614:ERROR:device_event_log_impl.cc(192)] [15:07:36.613] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:40.60 [1860:16940:1223/150740.603:ERROR:device_event_log_impl.cc(192)] [15:07:40.602] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:42.61 [1860:16940:1223/150742.617:ERROR:device_event_log_impl.cc(192)] [15:07:42.616] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:51.11 [1860:16940:1223/150751.116:ERROR:device_event_log_impl.cc(192)] [15:07:51.115] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:53.13 [1860:16940:1223/150753.130:ERROR:device_event_log_impl.cc(192)] [15:07:53.129] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:56.79 [1860:16940:1223/150756.798:ERROR:device_event_log_impl.cc(192)] [15:07:56.794] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:58.40 [1860:16940:1223/150758.403:ERROR:device_event_log_impl.cc(192)] [15:07:58.402] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:07:59.93 [1860:16940:1223/150759.933:ERROR:device_event_log_impl.cc(192)] [15:07:59.933] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:08:06.67 [1860:16940:1223/150806.669:ERROR:device_event_log_impl.cc(192)] [15:08:06.668] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:08:10.04 [1860:16940:1223/150810.043:ERROR:device_event_log_impl.cc(192)] [15:08:10.043] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:08:12.04 [1860:16940:1223/150812.049:ERROR:device_event_log_impl.cc(192)] [15:08:12.049] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:08:27.48 [1860:16940:1223/150827.486:ERROR:device_event_log_impl.cc(192)] [15:08:27.486] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 15:08:30.47 [1860:16940:1223/150830.474:ERROR:device_event_log_impl.cc(192)] [15:08:30.473] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:11:10.59 [1860:8336:1223/151110.593:ERROR:checkin_request.cc(243)] Check-in request got net error: -105
+Dec 23, 2023 15:14:37.50 [1860:8336:1223/151437.501:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 15:18:04.76 [1860:8336:1223/151804.766:ERROR:checkin_request.cc(243)] Check-in request got net error: -105
+Dec 23, 2023 15:24:52.61 [1860:8336:1223/152452.617:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 15:28:07.81 [1860:8336:1223/152807.814:ERROR:checkin_request.cc(243)] Check-in request got net error: -105
+Dec 23, 2023 15:35:07.72 [1860:8336:1223/153507.722:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 15:38:16.87 [1860:8336:1223/153816.876:ERROR:checkin_request.cc(243)] Check-in request got net error: -105
+Dec 23, 2023 15:43:05.86 [1860:16940:1223/154305.866:ERROR:device_event_log_impl.cc(192)] [15:43:05.864] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 15:44:01.36 [1860:17032:1223/154401.368:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 15:45:10.79 [1860:8336:1223/154510.794:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 15:45:19.42 [1860:17032:1223/154519.427:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 15:48:19.93 [1860:8336:1223/154819.935:ERROR:checkin_request.cc(243)] Check-in request got net error: -105
+Dec 23, 2023 15:48:29.99 [1860:17032:1223/154829.991:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 16:50:46.06 [1860:16940:1223/165046.064:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 23, 2023 16:50:46.06 [1860:16940:1223/165046.065:ERROR:device_event_log_impl.cc(192)] [16:50:46.064] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 23, 2023 16:50:47.05 [1860:8336:1223/165047.049:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 16:50:47.05 [1860:8336:1223/165047.050:ERROR:checkin_request.cc(243)] Check-in request got net error: -21
+Dec 23, 2023 16:50:47.05 [1860:12300:1223/165047.051:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Dec 23, 2023 16:50:51.91 [1860:8336:1223/165051.918:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 16:50:56.35 [1860:16940:1223/165056.357:ERROR:device_event_log_impl.cc(192)] [16:50:56.357] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 16:51:11.05 [1860:8336:1223/165111.055:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 16:51:11.05 [1860:10412:1223/165111.057:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 16:52:00.48 [1860:8336:1223/165200.486:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 16:53:42.53 [1860:8336:1223/165342.537:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 16:53:48.43 [1860:7064:1223/165348.432:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 16:53:51.22 [1860:8336:1223/165351.229:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 16:53:51.23 [1860:10412:1223/165351.230:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 16:54:02.88 [1860:8336:1223/165402.886:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 16:54:02.88 [1860:10412:1223/165402.887:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 16:54:02.89 [1860:10412:1223/165402.892:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 23, 2023 16:54:20.93 [1860:8336:1223/165420.937:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 16:54:27.35 [1860:8336:1223/165427.354:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 16:54:27.35 [1860:10412:1223/165427.355:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Dec 23, 2023 17:02:37.01 [1860:8336:1223/170237.013:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 17:03:05.34 [1860:8336:1223/170305.349:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 17:03:51.81 [1860:8336:1223/170351.815:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 17:05:16.66 [1860:8336:1223/170516.661:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 17:11:15.69 [1860:16940:1223/171115.689:ERROR:device_event_log_impl.cc(192)] [17:11:15.688] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 20:47:13.20 [1860:16940:1223/204713.203:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 23, 2023 20:47:13.27 [1860:16940:1223/204713.203:ERROR:device_event_log_impl.cc(192)] [20:47:13.203] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 23, 2023 20:47:23.37 [1860:16940:1223/204723.377:ERROR:device_event_log_impl.cc(192)] [20:47:23.376] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 20:47:25.38 [1860:16940:1223/204725.382:ERROR:device_event_log_impl.cc(192)] [20:47:25.382] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 20:47:32.98 [1860:16940:1223/204732.980:ERROR:device_event_log_impl.cc(192)] [20:47:32.980] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 20:47:44.74 [1860:16940:1223/204744.747:ERROR:device_event_log_impl.cc(192)] [20:47:44.746] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 20:47:50.21 [1860:16940:1223/204750.216:ERROR:device_event_log_impl.cc(192)] [20:47:50.215] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 20:47:54.90 [1860:16940:1223/204754.907:ERROR:device_event_log_impl.cc(192)] [20:47:54.906] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 20:48:00.46 [1860:16940:1223/204800.461:ERROR:device_event_log_impl.cc(192)] [20:48:00.461] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 20:48:08.72 [1860:16940:1223/204808.728:ERROR:device_event_log_impl.cc(192)] [20:48:08.727] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 20:48:12.27 [1860:16940:1223/204812.273:ERROR:device_event_log_impl.cc(192)] [20:48:12.273] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 20:48:13.80 [1860:16940:1223/204813.809:ERROR:device_event_log_impl.cc(192)] [20:48:13.808] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 20:48:15.82 [1860:16940:1223/204815.820:ERROR:device_event_log_impl.cc(192)] [20:48:15.820] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 20:48:17.84 [1860:16940:1223/204817.840:ERROR:device_event_log_impl.cc(192)] [20:48:17.839] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 20:48:21.39 [1860:16940:1223/204821.394:ERROR:device_event_log_impl.cc(192)] [20:48:21.394] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 20:48:27.96 [1860:16940:1223/204827.960:ERROR:device_event_log_impl.cc(192)] [20:48:27.959] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 20:48:32.08 [1860:16940:1223/204832.086:ERROR:device_event_log_impl.cc(192)] [20:48:32.085] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 20:53:18.70 [1860:16940:1223/205318.708:ERROR:device_event_log_impl.cc(192)] [20:53:18.708] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 20:53:23.68 [1860:8336:1223/205323.684:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 20:53:49.02 [1860:16940:1223/205349.022:ERROR:device_event_log_impl.cc(192)] [20:53:49.022] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 20:53:52.51 [1860:16940:1223/205352.510:ERROR:device_event_log_impl.cc(192)] [20:53:52.510] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 20:54:05.65 [1860:16940:1223/205405.654:ERROR:device_event_log_impl.cc(192)] [20:54:05.654] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 20:54:20.53 [1860:16940:1223/205420.539:ERROR:device_event_log_impl.cc(192)] [20:54:20.538] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 20:54:23.46 [1860:16940:1223/205423.462:ERROR:device_event_log_impl.cc(192)] [20:54:23.461] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 20:54:27.06 [1860:16940:1223/205427.069:ERROR:device_event_log_impl.cc(192)] [20:54:27.069] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 20:54:46.36 [1860:16940:1223/205446.368:ERROR:device_event_log_impl.cc(192)] [20:54:46.367] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 20:55:02.89 [1860:16940:1223/205502.895:ERROR:device_event_log_impl.cc(192)] [20:55:02.896] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 20:55:09.07 [1860:16940:1223/205509.071:ERROR:device_event_log_impl.cc(192)] [20:55:09.071] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 20:55:16.05 [1860:16940:1223/205516.053:ERROR:device_event_log_impl.cc(192)] [20:55:16.053] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 20:57:42.30 [1860:8336:1223/205742.308:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 21:05:03.03 [1860:16940:1223/210503.038:ERROR:device_event_log_impl.cc(192)] [21:05:03.037] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 21:05:42.37 [1860:16940:1223/210542.373:ERROR:device_event_log_impl.cc(192)] [21:05:42.373] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 21:05:53.90 [1860:16940:1223/210553.901:ERROR:device_event_log_impl.cc(192)] [21:05:53.901] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 21:06:14.90 [1860:16940:1223/210614.906:ERROR:device_event_log_impl.cc(192)] [21:06:14.906] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 21:06:21.16 [1860:16940:1223/210621.161:ERROR:device_event_log_impl.cc(192)] [21:06:21.161] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 21:06:30.93 [1860:16940:1223/210630.938:ERROR:device_event_log_impl.cc(192)] [21:06:30.938] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 21:06:34.38 [1860:16940:1223/210634.387:ERROR:device_event_log_impl.cc(192)] [21:06:34.387] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 21:06:46.18 [1860:16940:1223/210646.189:ERROR:device_event_log_impl.cc(192)] [21:06:46.189] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 21:10:55.09 [1860:8336:1223/211055.099:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 22:33:53.84 [1860:16940:1223/223353.840:ERROR:device_event_log_impl.cc(192)] [22:33:53.840] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 22:33:55.01 [1860:8336:1223/223355.016:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 23, 2023 22:33:55.73 [1860:16940:1223/223355.733:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 23, 2023 22:33:55.73 [1860:16940:1223/223355.733:ERROR:device_event_log_impl.cc(192)] [22:33:55.733] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0129#20100201396000000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 23, 2023 22:33:58.08 [1860:16940:1223/223358.084:ERROR:device_event_log_impl.cc(192)] [22:33:58.083] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Dec 23, 2023 22:34:00.78 [1860:8336:1223/223400.781:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 22:34:17.75 [1860:8336:1223/223417.757:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 22:36:02.77 [1860:16940:1223/223602.778:ERROR:device_event_log_impl.cc(192)] [22:36:02.775] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 22:36:47.79 [1860:8336:1223/223647.790:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 22:36:51.78 [1860:8336:1223/223651.786:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 22:37:42.73 [1860:8336:1223/223742.729:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Dec 23, 2023 22:43:46.84 [1860:8336:1223/224346.848:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 22:46:01.63 [1860:16940:1223/224601.638:ERROR:device_event_log_impl.cc(192)] [22:46:01.638] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
